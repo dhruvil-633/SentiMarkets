@@ -1,0 +1,2732 @@
+{
+  "AAPL": [
+    {
+      "id": "AAPL_17",
+      "title": "AAPL Faces Regulatory Scrutiny Over Data Practices",
+      "description": "Regulators announced a formal investigation into Apple Inc.'s data handling practices, potentially exposing the company to significant fines and operational restrictions.",
+      "url": "https://finance.example.com/aapl-news-17",
+      "publishedAt": "2025-04-14T00:00:00Z",
+      "source": "MarketWatch",
+      "sentiment_score": -0.39,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "AAPL_16",
+      "title": "Institutional Investors Reduce AAPL Holdings by 8%",
+      "description": "SEC 13F filings reveal that major institutional investors trimmed their Apple Inc. positions significantly in the most recent quarter, suggesting diminished conviction in the near-term outlook.",
+      "url": "https://finance.example.com/aapl-news-16",
+      "publishedAt": "2025-04-11T00:00:00Z",
+      "source": "Yahoo Finance",
+      "sentiment_score": -0.6098,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "AAPL_15",
+      "title": "AAPL Smashes Earnings Expectations, Stock Surges 5.6%",
+      "description": "Apple Inc. reported Q1 earnings that beat analyst consensus by a wide margin, driven by strong revenue growth and expanding margins. Investors reacted positively, pushing shares higher in after-hours trading.",
+      "url": "https://finance.example.com/aapl-news-15",
+      "publishedAt": "2025-04-09T00:00:00Z",
+      "source": "The Street",
+      "sentiment_score": 0.2687,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "AAPL_14",
+      "title": "AAPL Signs Partnership with Mid-Tier Technology Vendor",
+      "description": "Apple Inc. announced a partnership with a regional technology provider to enhance certain back-office capabilities. The financial terms were not disclosed and the impact on earnings is expected to be minimal.",
+      "url": "https://finance.example.com/aapl-news-14",
+      "publishedAt": "2025-04-08T00:00:00Z",
+      "source": "CNBC",
+      "sentiment_score": -0.1008,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "AAPL_13",
+      "title": "AAPL Holds Annual Shareholder Meeting; No Major Announcements",
+      "description": "Apple Inc. conducted its annual shareholder meeting with no material new announcements. Management reiterated existing guidance and outlined long-term strategic priorities consistent with prior communications.",
+      "url": "https://finance.example.com/aapl-news-13",
+      "publishedAt": "2025-04-05T00:00:00Z",
+      "source": "Motley Fool",
+      "sentiment_score": 0.0202,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "AAPL_12",
+      "title": "AAPL Cuts Full-Year Guidance Citing Macro Headwinds",
+      "description": "Apple Inc. lowered its full-year outlook, citing persistent macroeconomic headwinds including elevated interest rates and slowing enterprise spending. The guidance cut surprised most market observers.",
+      "url": "https://finance.example.com/aapl-news-12",
+      "publishedAt": "2025-04-03T00:00:00Z",
+      "source": "Yahoo Finance",
+      "sentiment_score": -0.2032,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "AAPL_11",
+      "title": "AAPL Appoints New Chief Marketing Officer",
+      "description": "Apple Inc. named a veteran marketing executive as its new Chief Marketing Officer. The appointment is seen as routine and consistent with the company's ongoing leadership succession planning.",
+      "url": "https://finance.example.com/aapl-news-11",
+      "publishedAt": "2025-04-02T00:00:00Z",
+      "source": "Motley Fool",
+      "sentiment_score": 0.1189,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "AAPL_10",
+      "title": "AAPL Completes Planned Debt Refinancing at Lower Rates",
+      "description": "Apple Inc. successfully refinanced a portion of its long-term debt at favorable rates, modestly reducing its interest expense. The transaction was in line with the company's stated capital allocation strategy.",
+      "url": "https://finance.example.com/aapl-news-10",
+      "publishedAt": "2025-04-01T00:00:00Z",
+      "source": "Business Insider",
+      "sentiment_score": -0.0564,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "AAPL_9",
+      "title": "AAPL Completes Planned Debt Refinancing at Lower Rates",
+      "description": "Apple Inc. successfully refinanced a portion of its long-term debt at favorable rates, modestly reducing its interest expense. The transaction was in line with the company's stated capital allocation strategy.",
+      "url": "https://finance.example.com/aapl-news-9",
+      "publishedAt": "2025-03-31T00:00:00Z",
+      "source": "Financial Times",
+      "sentiment_score": -0.0687,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "AAPL_8",
+      "title": "AAPL Holds Annual Shareholder Meeting; No Major Announcements",
+      "description": "Apple Inc. conducted its annual shareholder meeting with no material new announcements. Management reiterated existing guidance and outlined long-term strategic priorities consistent with prior communications.",
+      "url": "https://finance.example.com/aapl-news-8",
+      "publishedAt": "2025-03-30T00:00:00Z",
+      "source": "Reuters",
+      "sentiment_score": 0.0806,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "AAPL_7",
+      "title": "Analysts Raise AAPL Price Target to $211",
+      "description": "A chorus of Wall Street analysts raised their price targets for Apple Inc. following a strong product launch and positive channel checks. The consensus rating remains a Strong Buy.",
+      "url": "https://finance.example.com/aapl-news-7",
+      "publishedAt": "2025-03-29T00:00:00Z",
+      "source": "TechCrunch",
+      "sentiment_score": 0.5079,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "AAPL_6",
+      "title": "AAPL Holds Annual Shareholder Meeting; No Major Announcements",
+      "description": "Apple Inc. conducted its annual shareholder meeting with no material new announcements. Management reiterated existing guidance and outlined long-term strategic priorities consistent with prior communications.",
+      "url": "https://finance.example.com/aapl-news-6",
+      "publishedAt": "2025-03-28T00:00:00Z",
+      "source": "Financial Times",
+      "sentiment_score": -0.0123,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "AAPL_5",
+      "title": "AAPL Expands into High-Growth Asian Markets",
+      "description": "Apple Inc. announced a strategic expansion into Southeast Asian markets, targeting a $50B addressable opportunity. The move is expected to meaningfully diversify the company's revenue base.",
+      "url": "https://finance.example.com/aapl-news-5",
+      "publishedAt": "2025-03-26T00:00:00Z",
+      "source": "The Wall Street Journal",
+      "sentiment_score": 0.4779,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "AAPL_4",
+      "title": "AAPL Expands into High-Growth Asian Markets",
+      "description": "Apple Inc. announced a strategic expansion into Southeast Asian markets, targeting a $50B addressable opportunity. The move is expected to meaningfully diversify the company's revenue base.",
+      "url": "https://finance.example.com/aapl-news-4",
+      "publishedAt": "2025-03-25T00:00:00Z",
+      "source": "Forbes",
+      "sentiment_score": 0.5256,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "AAPL_3",
+      "title": "AAPL Signs Partnership with Mid-Tier Technology Vendor",
+      "description": "Apple Inc. announced a partnership with a regional technology provider to enhance certain back-office capabilities. The financial terms were not disclosed and the impact on earnings is expected to be minimal.",
+      "url": "https://finance.example.com/aapl-news-3",
+      "publishedAt": "2025-03-23T00:00:00Z",
+      "source": "MarketWatch",
+      "sentiment_score": 0.0738,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "AAPL_2",
+      "title": "AAPL Faces Regulatory Scrutiny Over Data Practices",
+      "description": "Regulators announced a formal investigation into Apple Inc.'s data handling practices, potentially exposing the company to significant fines and operational restrictions.",
+      "url": "https://finance.example.com/aapl-news-2",
+      "publishedAt": "2025-03-22T00:00:00Z",
+      "source": "The Street",
+      "sentiment_score": -0.8221,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "AAPL_1",
+      "title": "AAPL Holds Annual Shareholder Meeting; No Major Announcements",
+      "description": "Apple Inc. conducted its annual shareholder meeting with no material new announcements. Management reiterated existing guidance and outlined long-term strategic priorities consistent with prior communications.",
+      "url": "https://finance.example.com/aapl-news-1",
+      "publishedAt": "2025-03-20T00:00:00Z",
+      "source": "Reuters",
+      "sentiment_score": 0.0863,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "AAPL_0",
+      "title": "AAPL Smashes Earnings Expectations, Stock Surges 5.5%",
+      "description": "Apple Inc. reported Q1 earnings that beat analyst consensus by a wide margin, driven by strong revenue growth and expanding margins. Investors reacted positively, pushing shares higher in after-hours trading.",
+      "url": "https://finance.example.com/aapl-news-0",
+      "publishedAt": "2025-03-18T00:00:00Z",
+      "source": "Reuters",
+      "sentiment_score": 0.343,
+      "sentiment_label": "bullish"
+    }
+  ],
+  "MSFT": [
+    {
+      "id": "MSFT_17",
+      "title": "MSFT Announces $10B Share Buyback Program",
+      "description": "Microsoft Corporation revealed a new $10 billion share repurchase program, signaling management confidence in the company's long-term outlook. Analysts upgraded the stock following the announcement.",
+      "url": "https://finance.example.com/msft-news-17",
+      "publishedAt": "2025-04-15T00:00:00Z",
+      "source": "Investopedia",
+      "sentiment_score": 0.4678,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "MSFT_16",
+      "title": "MSFT Participates in Industry Conference; Reiterates Outlook",
+      "description": "Management of Microsoft Corporation presented at a major industry conference, reiterating their previously issued financial guidance and discussing long-term growth initiatives without offering new financial metrics.",
+      "url": "https://finance.example.com/msft-news-16",
+      "publishedAt": "2025-04-14T00:00:00Z",
+      "source": "The Street",
+      "sentiment_score": 0.072,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "MSFT_15",
+      "title": "MSFT Smashes Earnings Expectations, Stock Surges 6.2%",
+      "description": "Microsoft Corporation reported Q1 earnings that beat analyst consensus by a wide margin, driven by strong revenue growth and expanding margins. Investors reacted positively, pushing shares higher in after-hours trading.",
+      "url": "https://finance.example.com/msft-news-15",
+      "publishedAt": "2025-04-12T00:00:00Z",
+      "source": "The Street",
+      "sentiment_score": 0.4686,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "MSFT_14",
+      "title": "MSFT Revenue Growth Accelerates for Third Straight Quarter",
+      "description": "Microsoft Corporation posted its third consecutive quarter of accelerating revenue growth, outpacing sector peers. The company raised full-year guidance above the high end of prior estimates.",
+      "url": "https://finance.example.com/msft-news-14",
+      "publishedAt": "2025-04-11T00:00:00Z",
+      "source": "Yahoo Finance",
+      "sentiment_score": 0.8317,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "MSFT_13",
+      "title": "MSFT Wins Major Government Contract Worth $4.2B",
+      "description": "Microsoft Corporation secured a significant multi-year government contract, adding substantial visibility to future revenue streams. The deal is expected to be accretive to earnings starting next quarter.",
+      "url": "https://finance.example.com/msft-news-13",
+      "publishedAt": "2025-04-10T00:00:00Z",
+      "source": "Financial Times",
+      "sentiment_score": 0.3331,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "MSFT_12",
+      "title": "MSFT Announces $10B Share Buyback Program",
+      "description": "Microsoft Corporation revealed a new $10 billion share repurchase program, signaling management confidence in the company's long-term outlook. Analysts upgraded the stock following the announcement.",
+      "url": "https://finance.example.com/msft-news-12",
+      "publishedAt": "2025-04-09T00:00:00Z",
+      "source": "Reuters",
+      "sentiment_score": 0.7028,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "MSFT_11",
+      "title": "MSFT Expands into High-Growth Asian Markets",
+      "description": "Microsoft Corporation announced a strategic expansion into Southeast Asian markets, targeting a $50B addressable opportunity. The move is expected to meaningfully diversify the company's revenue base.",
+      "url": "https://finance.example.com/msft-news-11",
+      "publishedAt": "2025-04-07T00:00:00Z",
+      "source": "Motley Fool",
+      "sentiment_score": 0.4166,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "MSFT_10",
+      "title": "MSFT Appoints New Chief Marketing Officer",
+      "description": "Microsoft Corporation named a veteran marketing executive as its new Chief Marketing Officer. The appointment is seen as routine and consistent with the company's ongoing leadership succession planning.",
+      "url": "https://finance.example.com/msft-news-10",
+      "publishedAt": "2025-04-05T00:00:00Z",
+      "source": "Barron's",
+      "sentiment_score": 0.0304,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "MSFT_9",
+      "title": "MSFT Participates in Industry Conference; Reiterates Outlook",
+      "description": "Management of Microsoft Corporation presented at a major industry conference, reiterating their previously issued financial guidance and discussing long-term growth initiatives without offering new financial metrics.",
+      "url": "https://finance.example.com/msft-news-9",
+      "publishedAt": "2025-04-04T00:00:00Z",
+      "source": "Barron's",
+      "sentiment_score": -0.0061,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "MSFT_8",
+      "title": "MSFT Cuts Full-Year Guidance Citing Macro Headwinds",
+      "description": "Microsoft Corporation lowered its full-year outlook, citing persistent macroeconomic headwinds including elevated interest rates and slowing enterprise spending. The guidance cut surprised most market observers.",
+      "url": "https://finance.example.com/msft-news-8",
+      "publishedAt": "2025-04-03T00:00:00Z",
+      "source": "TechCrunch",
+      "sentiment_score": -0.5465,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "MSFT_7",
+      "title": "MSFT Smashes Earnings Expectations, Stock Surges 10.6%",
+      "description": "Microsoft Corporation reported Q1 earnings that beat analyst consensus by a wide margin, driven by strong revenue growth and expanding margins. Investors reacted positively, pushing shares higher in after-hours trading.",
+      "url": "https://finance.example.com/msft-news-7",
+      "publishedAt": "2025-03-30T00:00:00Z",
+      "source": "Motley Fool",
+      "sentiment_score": 0.674,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "MSFT_6",
+      "title": "MSFT Announces $10B Share Buyback Program",
+      "description": "Microsoft Corporation revealed a new $10 billion share repurchase program, signaling management confidence in the company's long-term outlook. Analysts upgraded the stock following the announcement.",
+      "url": "https://finance.example.com/msft-news-6",
+      "publishedAt": "2025-03-29T00:00:00Z",
+      "source": "Motley Fool",
+      "sentiment_score": 0.5238,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "MSFT_5",
+      "title": "MSFT Misses Revenue Estimates as Competition Intensifies",
+      "description": "Microsoft Corporation reported disappointing quarterly revenues, falling short of analyst expectations for the second consecutive period. Management cited intensifying competitive pressure and softer consumer demand.",
+      "url": "https://finance.example.com/msft-news-5",
+      "publishedAt": "2025-03-26T00:00:00Z",
+      "source": "Business Insider",
+      "sentiment_score": -0.2648,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "MSFT_4",
+      "title": "MSFT CFO Departs Unexpectedly; Shares Drop",
+      "description": "Microsoft Corporation disclosed the sudden resignation of its Chief Financial Officer, raising governance concerns among institutional investors. The stock fell sharply as uncertainty around financial strategy increased.",
+      "url": "https://finance.example.com/msft-news-4",
+      "publishedAt": "2025-03-23T00:00:00Z",
+      "source": "CNBC",
+      "sentiment_score": -0.6243,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "MSFT_3",
+      "title": "Analysts Raise MSFT Price Target to $484",
+      "description": "A chorus of Wall Street analysts raised their price targets for Microsoft Corporation following a strong product launch and positive channel checks. The consensus rating remains a Strong Buy.",
+      "url": "https://finance.example.com/msft-news-3",
+      "publishedAt": "2025-03-22T00:00:00Z",
+      "source": "The Street",
+      "sentiment_score": 0.517,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "MSFT_2",
+      "title": "MSFT Announces $10B Share Buyback Program",
+      "description": "Microsoft Corporation revealed a new $10 billion share repurchase program, signaling management confidence in the company's long-term outlook. Analysts upgraded the stock following the announcement.",
+      "url": "https://finance.example.com/msft-news-2",
+      "publishedAt": "2025-03-21T00:00:00Z",
+      "source": "Bloomberg",
+      "sentiment_score": 0.3274,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "MSFT_1",
+      "title": "MSFT CFO Departs Unexpectedly; Shares Drop",
+      "description": "Microsoft Corporation disclosed the sudden resignation of its Chief Financial Officer, raising governance concerns among institutional investors. The stock fell sharply as uncertainty around financial strategy increased.",
+      "url": "https://finance.example.com/msft-news-1",
+      "publishedAt": "2025-03-20T00:00:00Z",
+      "source": "Yahoo Finance",
+      "sentiment_score": -0.4287,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "MSFT_0",
+      "title": "MSFT Signs Partnership with Mid-Tier Technology Vendor",
+      "description": "Microsoft Corporation announced a partnership with a regional technology provider to enhance certain back-office capabilities. The financial terms were not disclosed and the impact on earnings is expected to be minimal.",
+      "url": "https://finance.example.com/msft-news-0",
+      "publishedAt": "2025-03-17T00:00:00Z",
+      "source": "MarketWatch",
+      "sentiment_score": -0.0139,
+      "sentiment_label": "neutral"
+    }
+  ],
+  "GOOGL": [
+    {
+      "id": "GOOGL_17",
+      "title": "GOOGL Cuts Full-Year Guidance Citing Macro Headwinds",
+      "description": "Alphabet Inc. lowered its full-year outlook, citing persistent macroeconomic headwinds including elevated interest rates and slowing enterprise spending. The guidance cut surprised most market observers.",
+      "url": "https://finance.example.com/googl-news-17",
+      "publishedAt": "2025-04-13T00:00:00Z",
+      "source": "The Wall Street Journal",
+      "sentiment_score": -0.2853,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "GOOGL_16",
+      "title": "GOOGL Completes Planned Debt Refinancing at Lower Rates",
+      "description": "Alphabet Inc. successfully refinanced a portion of its long-term debt at favorable rates, modestly reducing its interest expense. The transaction was in line with the company's stated capital allocation strategy.",
+      "url": "https://finance.example.com/googl-news-16",
+      "publishedAt": "2025-04-12T00:00:00Z",
+      "source": "Reuters",
+      "sentiment_score": 0.0754,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "GOOGL_15",
+      "title": "GOOGL Smashes Earnings Expectations, Stock Surges 5.1%",
+      "description": "Alphabet Inc. reported Q1 earnings that beat analyst consensus by a wide margin, driven by strong revenue growth and expanding margins. Investors reacted positively, pushing shares higher in after-hours trading.",
+      "url": "https://finance.example.com/googl-news-15",
+      "publishedAt": "2025-04-10T00:00:00Z",
+      "source": "Seeking Alpha",
+      "sentiment_score": 0.564,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "GOOGL_14",
+      "title": "GOOGL Signs Partnership with Mid-Tier Technology Vendor",
+      "description": "Alphabet Inc. announced a partnership with a regional technology provider to enhance certain back-office capabilities. The financial terms were not disclosed and the impact on earnings is expected to be minimal.",
+      "url": "https://finance.example.com/googl-news-14",
+      "publishedAt": "2025-04-09T00:00:00Z",
+      "source": "TechCrunch",
+      "sentiment_score": 0.0635,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "GOOGL_13",
+      "title": "GOOGL Wins Major Government Contract Worth $4.2B",
+      "description": "Alphabet Inc. secured a significant multi-year government contract, adding substantial visibility to future revenue streams. The deal is expected to be accretive to earnings starting next quarter.",
+      "url": "https://finance.example.com/googl-news-13",
+      "publishedAt": "2025-04-08T00:00:00Z",
+      "source": "Investopedia",
+      "sentiment_score": 0.3494,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "GOOGL_12",
+      "title": "GOOGL Signs Partnership with Mid-Tier Technology Vendor",
+      "description": "Alphabet Inc. announced a partnership with a regional technology provider to enhance certain back-office capabilities. The financial terms were not disclosed and the impact on earnings is expected to be minimal.",
+      "url": "https://finance.example.com/googl-news-12",
+      "publishedAt": "2025-04-07T00:00:00Z",
+      "source": "The Street",
+      "sentiment_score": 0.0235,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "GOOGL_11",
+      "title": "GOOGL Appoints New Chief Marketing Officer",
+      "description": "Alphabet Inc. named a veteran marketing executive as its new Chief Marketing Officer. The appointment is seen as routine and consistent with the company's ongoing leadership succession planning.",
+      "url": "https://finance.example.com/googl-news-11",
+      "publishedAt": "2025-04-04T00:00:00Z",
+      "source": "Financial Times",
+      "sentiment_score": -0.047,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "GOOGL_10",
+      "title": "GOOGL Announces $10B Share Buyback Program",
+      "description": "Alphabet Inc. revealed a new $10 billion share repurchase program, signaling management confidence in the company's long-term outlook. Analysts upgraded the stock following the announcement.",
+      "url": "https://finance.example.com/googl-news-10",
+      "publishedAt": "2025-04-03T00:00:00Z",
+      "source": "Forbes",
+      "sentiment_score": 0.4076,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "GOOGL_9",
+      "title": "GOOGL CFO Departs Unexpectedly; Shares Drop",
+      "description": "Alphabet Inc. disclosed the sudden resignation of its Chief Financial Officer, raising governance concerns among institutional investors. The stock fell sharply as uncertainty around financial strategy increased.",
+      "url": "https://finance.example.com/googl-news-9",
+      "publishedAt": "2025-04-01T00:00:00Z",
+      "source": "The Street",
+      "sentiment_score": -0.4408,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "GOOGL_8",
+      "title": "GOOGL Participates in Industry Conference; Reiterates Outlook",
+      "description": "Management of Alphabet Inc. presented at a major industry conference, reiterating their previously issued financial guidance and discussing long-term growth initiatives without offering new financial metrics.",
+      "url": "https://finance.example.com/googl-news-8",
+      "publishedAt": "2025-03-30T00:00:00Z",
+      "source": "Business Insider",
+      "sentiment_score": -0.0565,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "GOOGL_7",
+      "title": "Analysts Raise GOOGL Price Target to $207",
+      "description": "A chorus of Wall Street analysts raised their price targets for Alphabet Inc. following a strong product launch and positive channel checks. The consensus rating remains a Strong Buy.",
+      "url": "https://finance.example.com/googl-news-7",
+      "publishedAt": "2025-03-28T00:00:00Z",
+      "source": "Barron's",
+      "sentiment_score": 0.2042,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "GOOGL_6",
+      "title": "GOOGL Expands into High-Growth Asian Markets",
+      "description": "Alphabet Inc. announced a strategic expansion into Southeast Asian markets, targeting a $50B addressable opportunity. The move is expected to meaningfully diversify the company's revenue base.",
+      "url": "https://finance.example.com/googl-news-6",
+      "publishedAt": "2025-03-26T00:00:00Z",
+      "source": "CNBC",
+      "sentiment_score": 0.5885,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "GOOGL_5",
+      "title": "Institutional Investors Reduce GOOGL Holdings by 8%",
+      "description": "SEC 13F filings reveal that major institutional investors trimmed their Alphabet Inc. positions significantly in the most recent quarter, suggesting diminished conviction in the near-term outlook.",
+      "url": "https://finance.example.com/googl-news-5",
+      "publishedAt": "2025-03-25T00:00:00Z",
+      "source": "Investopedia",
+      "sentiment_score": -0.3556,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "GOOGL_4",
+      "title": "GOOGL Cuts Full-Year Guidance Citing Macro Headwinds",
+      "description": "Alphabet Inc. lowered its full-year outlook, citing persistent macroeconomic headwinds including elevated interest rates and slowing enterprise spending. The guidance cut surprised most market observers.",
+      "url": "https://finance.example.com/googl-news-4",
+      "publishedAt": "2025-03-22T00:00:00Z",
+      "source": "Yahoo Finance",
+      "sentiment_score": -0.6027,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "GOOGL_3",
+      "title": "GOOGL Signs Partnership with Mid-Tier Technology Vendor",
+      "description": "Alphabet Inc. announced a partnership with a regional technology provider to enhance certain back-office capabilities. The financial terms were not disclosed and the impact on earnings is expected to be minimal.",
+      "url": "https://finance.example.com/googl-news-3",
+      "publishedAt": "2025-03-21T00:00:00Z",
+      "source": "Financial Times",
+      "sentiment_score": 0.0662,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "GOOGL_2",
+      "title": "GOOGL Revenue Growth Accelerates for Third Straight Quarter",
+      "description": "Alphabet Inc. posted its third consecutive quarter of accelerating revenue growth, outpacing sector peers. The company raised full-year guidance above the high end of prior estimates.",
+      "url": "https://finance.example.com/googl-news-2",
+      "publishedAt": "2025-03-20T00:00:00Z",
+      "source": "Motley Fool",
+      "sentiment_score": 0.3637,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "GOOGL_1",
+      "title": "GOOGL Misses Revenue Estimates as Competition Intensifies",
+      "description": "Alphabet Inc. reported disappointing quarterly revenues, falling short of analyst expectations for the second consecutive period. Management cited intensifying competitive pressure and softer consumer demand.",
+      "url": "https://finance.example.com/googl-news-1",
+      "publishedAt": "2025-03-18T00:00:00Z",
+      "source": "Bloomberg",
+      "sentiment_score": -0.4542,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "GOOGL_0",
+      "title": "Analysts Raise GOOGL Price Target to $201",
+      "description": "A chorus of Wall Street analysts raised their price targets for Alphabet Inc. following a strong product launch and positive channel checks. The consensus rating remains a Strong Buy.",
+      "url": "https://finance.example.com/googl-news-0",
+      "publishedAt": "2025-03-17T00:00:00Z",
+      "source": "TechCrunch",
+      "sentiment_score": 0.218,
+      "sentiment_label": "bullish"
+    }
+  ],
+  "AMZN": [
+    {
+      "id": "AMZN_17",
+      "title": "AMZN Expands into High-Growth Asian Markets",
+      "description": "Amazon.com Inc. announced a strategic expansion into Southeast Asian markets, targeting a $50B addressable opportunity. The move is expected to meaningfully diversify the company's revenue base.",
+      "url": "https://finance.example.com/amzn-news-17",
+      "publishedAt": "2025-04-14T00:00:00Z",
+      "source": "TechCrunch",
+      "sentiment_score": 0.6646,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "AMZN_16",
+      "title": "AMZN Cuts Full-Year Guidance Citing Macro Headwinds",
+      "description": "Amazon.com Inc. lowered its full-year outlook, citing persistent macroeconomic headwinds including elevated interest rates and slowing enterprise spending. The guidance cut surprised most market observers.",
+      "url": "https://finance.example.com/amzn-news-16",
+      "publishedAt": "2025-04-13T00:00:00Z",
+      "source": "Motley Fool",
+      "sentiment_score": -0.3701,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "AMZN_15",
+      "title": "AMZN Smashes Earnings Expectations, Stock Surges 7.9%",
+      "description": "Amazon.com Inc. reported Q1 earnings that beat analyst consensus by a wide margin, driven by strong revenue growth and expanding margins. Investors reacted positively, pushing shares higher in after-hours trading.",
+      "url": "https://finance.example.com/amzn-news-15",
+      "publishedAt": "2025-04-12T00:00:00Z",
+      "source": "The Street",
+      "sentiment_score": 0.2519,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "AMZN_14",
+      "title": "AMZN Cuts Full-Year Guidance Citing Macro Headwinds",
+      "description": "Amazon.com Inc. lowered its full-year outlook, citing persistent macroeconomic headwinds including elevated interest rates and slowing enterprise spending. The guidance cut surprised most market observers.",
+      "url": "https://finance.example.com/amzn-news-14",
+      "publishedAt": "2025-04-11T00:00:00Z",
+      "source": "CNBC",
+      "sentiment_score": -0.6179,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "AMZN_13",
+      "title": "Institutional Investors Reduce AMZN Holdings by 8%",
+      "description": "SEC 13F filings reveal that major institutional investors trimmed their Amazon.com Inc. positions significantly in the most recent quarter, suggesting diminished conviction in the near-term outlook.",
+      "url": "https://finance.example.com/amzn-news-13",
+      "publishedAt": "2025-04-07T00:00:00Z",
+      "source": "MarketWatch",
+      "sentiment_score": -0.2427,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "AMZN_12",
+      "title": "Analysts Raise AMZN Price Target to $230",
+      "description": "A chorus of Wall Street analysts raised their price targets for Amazon.com Inc. following a strong product launch and positive channel checks. The consensus rating remains a Strong Buy.",
+      "url": "https://finance.example.com/amzn-news-12",
+      "publishedAt": "2025-04-04T00:00:00Z",
+      "source": "MarketWatch",
+      "sentiment_score": 0.2602,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "AMZN_11",
+      "title": "AMZN Wins Major Government Contract Worth $4.2B",
+      "description": "Amazon.com Inc. secured a significant multi-year government contract, adding substantial visibility to future revenue streams. The deal is expected to be accretive to earnings starting next quarter.",
+      "url": "https://finance.example.com/amzn-news-11",
+      "publishedAt": "2025-04-03T00:00:00Z",
+      "source": "Investopedia",
+      "sentiment_score": 0.6779,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "AMZN_10",
+      "title": "AMZN Cuts Full-Year Guidance Citing Macro Headwinds",
+      "description": "Amazon.com Inc. lowered its full-year outlook, citing persistent macroeconomic headwinds including elevated interest rates and slowing enterprise spending. The guidance cut surprised most market observers.",
+      "url": "https://finance.example.com/amzn-news-10",
+      "publishedAt": "2025-04-02T00:00:00Z",
+      "source": "Business Insider",
+      "sentiment_score": -0.6493,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "AMZN_9",
+      "title": "AMZN Smashes Earnings Expectations, Stock Surges 12.1%",
+      "description": "Amazon.com Inc. reported Q1 earnings that beat analyst consensus by a wide margin, driven by strong revenue growth and expanding margins. Investors reacted positively, pushing shares higher in after-hours trading.",
+      "url": "https://finance.example.com/amzn-news-9",
+      "publishedAt": "2025-03-31T00:00:00Z",
+      "source": "Forbes",
+      "sentiment_score": 0.8165,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "AMZN_8",
+      "title": "AMZN Participates in Industry Conference; Reiterates Outlook",
+      "description": "Management of Amazon.com Inc. presented at a major industry conference, reiterating their previously issued financial guidance and discussing long-term growth initiatives without offering new financial metrics.",
+      "url": "https://finance.example.com/amzn-news-8",
+      "publishedAt": "2025-03-30T00:00:00Z",
+      "source": "Business Insider",
+      "sentiment_score": 0.0889,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "AMZN_7",
+      "title": "AMZN Faces Regulatory Scrutiny Over Data Practices",
+      "description": "Regulators announced a formal investigation into Amazon.com Inc.'s data handling practices, potentially exposing the company to significant fines and operational restrictions.",
+      "url": "https://finance.example.com/amzn-news-7",
+      "publishedAt": "2025-03-28T00:00:00Z",
+      "source": "Barron's",
+      "sentiment_score": -0.3055,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "AMZN_6",
+      "title": "AMZN Wins Major Government Contract Worth $4.2B",
+      "description": "Amazon.com Inc. secured a significant multi-year government contract, adding substantial visibility to future revenue streams. The deal is expected to be accretive to earnings starting next quarter.",
+      "url": "https://finance.example.com/amzn-news-6",
+      "publishedAt": "2025-03-26T00:00:00Z",
+      "source": "Business Insider",
+      "sentiment_score": 0.3286,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "AMZN_5",
+      "title": "AMZN Holds Annual Shareholder Meeting; No Major Announcements",
+      "description": "Amazon.com Inc. conducted its annual shareholder meeting with no material new announcements. Management reiterated existing guidance and outlined long-term strategic priorities consistent with prior communications.",
+      "url": "https://finance.example.com/amzn-news-5",
+      "publishedAt": "2025-03-25T00:00:00Z",
+      "source": "Forbes",
+      "sentiment_score": 0.0191,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "AMZN_4",
+      "title": "AMZN Expands into High-Growth Asian Markets",
+      "description": "Amazon.com Inc. announced a strategic expansion into Southeast Asian markets, targeting a $50B addressable opportunity. The move is expected to meaningfully diversify the company's revenue base.",
+      "url": "https://finance.example.com/amzn-news-4",
+      "publishedAt": "2025-03-24T00:00:00Z",
+      "source": "Reuters",
+      "sentiment_score": 0.2812,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "AMZN_3",
+      "title": "AMZN Announces $10B Share Buyback Program",
+      "description": "Amazon.com Inc. revealed a new $10 billion share repurchase program, signaling management confidence in the company's long-term outlook. Analysts upgraded the stock following the announcement.",
+      "url": "https://finance.example.com/amzn-news-3",
+      "publishedAt": "2025-03-22T00:00:00Z",
+      "source": "Yahoo Finance",
+      "sentiment_score": 0.6511,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "AMZN_2",
+      "title": "AMZN Misses Revenue Estimates as Competition Intensifies",
+      "description": "Amazon.com Inc. reported disappointing quarterly revenues, falling short of analyst expectations for the second consecutive period. Management cited intensifying competitive pressure and softer consumer demand.",
+      "url": "https://finance.example.com/amzn-news-2",
+      "publishedAt": "2025-03-21T00:00:00Z",
+      "source": "The Street",
+      "sentiment_score": -0.3037,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "AMZN_1",
+      "title": "AMZN Faces Regulatory Scrutiny Over Data Practices",
+      "description": "Regulators announced a formal investigation into Amazon.com Inc.'s data handling practices, potentially exposing the company to significant fines and operational restrictions.",
+      "url": "https://finance.example.com/amzn-news-1",
+      "publishedAt": "2025-03-19T00:00:00Z",
+      "source": "Bloomberg",
+      "sentiment_score": -0.6271,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "AMZN_0",
+      "title": "Analysts Raise AMZN Price Target to $231",
+      "description": "A chorus of Wall Street analysts raised their price targets for Amazon.com Inc. following a strong product launch and positive channel checks. The consensus rating remains a Strong Buy.",
+      "url": "https://finance.example.com/amzn-news-0",
+      "publishedAt": "2025-03-17T00:00:00Z",
+      "source": "The Wall Street Journal",
+      "sentiment_score": 0.4622,
+      "sentiment_label": "bullish"
+    }
+  ],
+  "NVDA": [
+    {
+      "id": "NVDA_17",
+      "title": "NVDA Appoints New Chief Marketing Officer",
+      "description": "NVIDIA Corporation named a veteran marketing executive as its new Chief Marketing Officer. The appointment is seen as routine and consistent with the company's ongoing leadership succession planning.",
+      "url": "https://finance.example.com/nvda-news-17",
+      "publishedAt": "2025-04-15T00:00:00Z",
+      "source": "Reuters",
+      "sentiment_score": -0.0838,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "NVDA_16",
+      "title": "NVDA Signs Partnership with Mid-Tier Technology Vendor",
+      "description": "NVIDIA Corporation announced a partnership with a regional technology provider to enhance certain back-office capabilities. The financial terms were not disclosed and the impact on earnings is expected to be minimal.",
+      "url": "https://finance.example.com/nvda-news-16",
+      "publishedAt": "2025-04-12T00:00:00Z",
+      "source": "Investopedia",
+      "sentiment_score": 0.0155,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "NVDA_15",
+      "title": "NVDA Expands into High-Growth Asian Markets",
+      "description": "NVIDIA Corporation announced a strategic expansion into Southeast Asian markets, targeting a $50B addressable opportunity. The move is expected to meaningfully diversify the company's revenue base.",
+      "url": "https://finance.example.com/nvda-news-15",
+      "publishedAt": "2025-04-10T00:00:00Z",
+      "source": "Seeking Alpha",
+      "sentiment_score": 0.6447,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "NVDA_14",
+      "title": "NVDA CFO Departs Unexpectedly; Shares Drop",
+      "description": "NVIDIA Corporation disclosed the sudden resignation of its Chief Financial Officer, raising governance concerns among institutional investors. The stock fell sharply as uncertainty around financial strategy increased.",
+      "url": "https://finance.example.com/nvda-news-14",
+      "publishedAt": "2025-04-07T00:00:00Z",
+      "source": "Yahoo Finance",
+      "sentiment_score": -0.774,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "NVDA_13",
+      "title": "NVDA CFO Departs Unexpectedly; Shares Drop",
+      "description": "NVIDIA Corporation disclosed the sudden resignation of its Chief Financial Officer, raising governance concerns among institutional investors. The stock fell sharply as uncertainty around financial strategy increased.",
+      "url": "https://finance.example.com/nvda-news-13",
+      "publishedAt": "2025-04-06T00:00:00Z",
+      "source": "TechCrunch",
+      "sentiment_score": -0.3817,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "NVDA_12",
+      "title": "NVDA Completes Planned Debt Refinancing at Lower Rates",
+      "description": "NVIDIA Corporation successfully refinanced a portion of its long-term debt at favorable rates, modestly reducing its interest expense. The transaction was in line with the company's stated capital allocation strategy.",
+      "url": "https://finance.example.com/nvda-news-12",
+      "publishedAt": "2025-04-04T00:00:00Z",
+      "source": "Reuters",
+      "sentiment_score": 0.0025,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "NVDA_11",
+      "title": "Analysts Raise NVDA Price Target to $1018",
+      "description": "A chorus of Wall Street analysts raised their price targets for NVIDIA Corporation following a strong product launch and positive channel checks. The consensus rating remains a Strong Buy.",
+      "url": "https://finance.example.com/nvda-news-11",
+      "publishedAt": "2025-04-02T00:00:00Z",
+      "source": "Barron's",
+      "sentiment_score": 0.4729,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "NVDA_10",
+      "title": "NVDA Participates in Industry Conference; Reiterates Outlook",
+      "description": "Management of NVIDIA Corporation presented at a major industry conference, reiterating their previously issued financial guidance and discussing long-term growth initiatives without offering new financial metrics.",
+      "url": "https://finance.example.com/nvda-news-10",
+      "publishedAt": "2025-04-01T00:00:00Z",
+      "source": "TechCrunch",
+      "sentiment_score": -0.0988,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "NVDA_9",
+      "title": "NVDA Faces Regulatory Scrutiny Over Data Practices",
+      "description": "Regulators announced a formal investigation into NVIDIA Corporation's data handling practices, potentially exposing the company to significant fines and operational restrictions.",
+      "url": "https://finance.example.com/nvda-news-9",
+      "publishedAt": "2025-03-31T00:00:00Z",
+      "source": "Business Insider",
+      "sentiment_score": -0.6797,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "NVDA_8",
+      "title": "NVDA Misses Revenue Estimates as Competition Intensifies",
+      "description": "NVIDIA Corporation reported disappointing quarterly revenues, falling short of analyst expectations for the second consecutive period. Management cited intensifying competitive pressure and softer consumer demand.",
+      "url": "https://finance.example.com/nvda-news-8",
+      "publishedAt": "2025-03-29T00:00:00Z",
+      "source": "Forbes",
+      "sentiment_score": -0.4957,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "NVDA_7",
+      "title": "NVDA Faces Regulatory Scrutiny Over Data Practices",
+      "description": "Regulators announced a formal investigation into NVIDIA Corporation's data handling practices, potentially exposing the company to significant fines and operational restrictions.",
+      "url": "https://finance.example.com/nvda-news-7",
+      "publishedAt": "2025-03-28T00:00:00Z",
+      "source": "Bloomberg",
+      "sentiment_score": -0.8887,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "NVDA_6",
+      "title": "NVDA Expands into High-Growth Asian Markets",
+      "description": "NVIDIA Corporation announced a strategic expansion into Southeast Asian markets, targeting a $50B addressable opportunity. The move is expected to meaningfully diversify the company's revenue base.",
+      "url": "https://finance.example.com/nvda-news-6",
+      "publishedAt": "2025-03-27T00:00:00Z",
+      "source": "MarketWatch",
+      "sentiment_score": 0.5741,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "NVDA_5",
+      "title": "NVDA Announces $10B Share Buyback Program",
+      "description": "NVIDIA Corporation revealed a new $10 billion share repurchase program, signaling management confidence in the company's long-term outlook. Analysts upgraded the stock following the announcement.",
+      "url": "https://finance.example.com/nvda-news-5",
+      "publishedAt": "2025-03-24T00:00:00Z",
+      "source": "Reuters",
+      "sentiment_score": 0.3942,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "NVDA_4",
+      "title": "NVDA Faces Regulatory Scrutiny Over Data Practices",
+      "description": "Regulators announced a formal investigation into NVIDIA Corporation's data handling practices, potentially exposing the company to significant fines and operational restrictions.",
+      "url": "https://finance.example.com/nvda-news-4",
+      "publishedAt": "2025-03-23T00:00:00Z",
+      "source": "Bloomberg",
+      "sentiment_score": -0.4765,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "NVDA_3",
+      "title": "NVDA Holds Annual Shareholder Meeting; No Major Announcements",
+      "description": "NVIDIA Corporation conducted its annual shareholder meeting with no material new announcements. Management reiterated existing guidance and outlined long-term strategic priorities consistent with prior communications.",
+      "url": "https://finance.example.com/nvda-news-3",
+      "publishedAt": "2025-03-22T00:00:00Z",
+      "source": "Yahoo Finance",
+      "sentiment_score": 0.0428,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "NVDA_2",
+      "title": "NVDA Expands into High-Growth Asian Markets",
+      "description": "NVIDIA Corporation announced a strategic expansion into Southeast Asian markets, targeting a $50B addressable opportunity. The move is expected to meaningfully diversify the company's revenue base.",
+      "url": "https://finance.example.com/nvda-news-2",
+      "publishedAt": "2025-03-21T00:00:00Z",
+      "source": "MarketWatch",
+      "sentiment_score": 0.4865,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "NVDA_1",
+      "title": "NVDA Smashes Earnings Expectations, Stock Surges 10.2%",
+      "description": "NVIDIA Corporation reported Q1 earnings that beat analyst consensus by a wide margin, driven by strong revenue growth and expanding margins. Investors reacted positively, pushing shares higher in after-hours trading.",
+      "url": "https://finance.example.com/nvda-news-1",
+      "publishedAt": "2025-03-19T00:00:00Z",
+      "source": "Reuters",
+      "sentiment_score": 0.2168,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "NVDA_0",
+      "title": "NVDA Wins Major Government Contract Worth $4.2B",
+      "description": "NVIDIA Corporation secured a significant multi-year government contract, adding substantial visibility to future revenue streams. The deal is expected to be accretive to earnings starting next quarter.",
+      "url": "https://finance.example.com/nvda-news-0",
+      "publishedAt": "2025-03-17T00:00:00Z",
+      "source": "Yahoo Finance",
+      "sentiment_score": 0.8766,
+      "sentiment_label": "bullish"
+    }
+  ],
+  "TSLA": [
+    {
+      "id": "TSLA_17",
+      "title": "TSLA CFO Departs Unexpectedly; Shares Drop",
+      "description": "Tesla Inc. disclosed the sudden resignation of its Chief Financial Officer, raising governance concerns among institutional investors. The stock fell sharply as uncertainty around financial strategy increased.",
+      "url": "https://finance.example.com/tsla-news-17",
+      "publishedAt": "2025-04-15T00:00:00Z",
+      "source": "Investopedia",
+      "sentiment_score": -0.8607,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "TSLA_16",
+      "title": "TSLA Signs Partnership with Mid-Tier Technology Vendor",
+      "description": "Tesla Inc. announced a partnership with a regional technology provider to enhance certain back-office capabilities. The financial terms were not disclosed and the impact on earnings is expected to be minimal.",
+      "url": "https://finance.example.com/tsla-news-16",
+      "publishedAt": "2025-04-13T00:00:00Z",
+      "source": "Financial Times",
+      "sentiment_score": -0.0181,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "TSLA_15",
+      "title": "TSLA Participates in Industry Conference; Reiterates Outlook",
+      "description": "Management of Tesla Inc. presented at a major industry conference, reiterating their previously issued financial guidance and discussing long-term growth initiatives without offering new financial metrics.",
+      "url": "https://finance.example.com/tsla-news-15",
+      "publishedAt": "2025-04-12T00:00:00Z",
+      "source": "The Wall Street Journal",
+      "sentiment_score": 0.0461,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "TSLA_14",
+      "title": "TSLA Appoints New Chief Marketing Officer",
+      "description": "Tesla Inc. named a veteran marketing executive as its new Chief Marketing Officer. The appointment is seen as routine and consistent with the company's ongoing leadership succession planning.",
+      "url": "https://finance.example.com/tsla-news-14",
+      "publishedAt": "2025-04-09T00:00:00Z",
+      "source": "Financial Times",
+      "sentiment_score": -0.0151,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "TSLA_13",
+      "title": "TSLA Faces Regulatory Scrutiny Over Data Practices",
+      "description": "Regulators announced a formal investigation into Tesla Inc.'s data handling practices, potentially exposing the company to significant fines and operational restrictions.",
+      "url": "https://finance.example.com/tsla-news-13",
+      "publishedAt": "2025-04-06T00:00:00Z",
+      "source": "TechCrunch",
+      "sentiment_score": -0.7083,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "TSLA_12",
+      "title": "TSLA Holds Annual Shareholder Meeting; No Major Announcements",
+      "description": "Tesla Inc. conducted its annual shareholder meeting with no material new announcements. Management reiterated existing guidance and outlined long-term strategic priorities consistent with prior communications.",
+      "url": "https://finance.example.com/tsla-news-12",
+      "publishedAt": "2025-04-05T00:00:00Z",
+      "source": "TechCrunch",
+      "sentiment_score": -0.0244,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "TSLA_11",
+      "title": "TSLA Expands into High-Growth Asian Markets",
+      "description": "Tesla Inc. announced a strategic expansion into Southeast Asian markets, targeting a $50B addressable opportunity. The move is expected to meaningfully diversify the company's revenue base.",
+      "url": "https://finance.example.com/tsla-news-11",
+      "publishedAt": "2025-04-01T00:00:00Z",
+      "source": "Bloomberg",
+      "sentiment_score": 0.3971,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "TSLA_10",
+      "title": "TSLA Expands into High-Growth Asian Markets",
+      "description": "Tesla Inc. announced a strategic expansion into Southeast Asian markets, targeting a $50B addressable opportunity. The move is expected to meaningfully diversify the company's revenue base.",
+      "url": "https://finance.example.com/tsla-news-10",
+      "publishedAt": "2025-03-30T00:00:00Z",
+      "source": "Business Insider",
+      "sentiment_score": 0.6475,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "TSLA_9",
+      "title": "TSLA Faces Regulatory Scrutiny Over Data Practices",
+      "description": "Regulators announced a formal investigation into Tesla Inc.'s data handling practices, potentially exposing the company to significant fines and operational restrictions.",
+      "url": "https://finance.example.com/tsla-news-9",
+      "publishedAt": "2025-03-29T00:00:00Z",
+      "source": "Investopedia",
+      "sentiment_score": -0.6695,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "TSLA_8",
+      "title": "TSLA Smashes Earnings Expectations, Stock Surges 10.0%",
+      "description": "Tesla Inc. reported Q1 earnings that beat analyst consensus by a wide margin, driven by strong revenue growth and expanding margins. Investors reacted positively, pushing shares higher in after-hours trading.",
+      "url": "https://finance.example.com/tsla-news-8",
+      "publishedAt": "2025-03-28T00:00:00Z",
+      "source": "Business Insider",
+      "sentiment_score": 0.6449,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "TSLA_7",
+      "title": "Analysts Raise TSLA Price Target to $270",
+      "description": "A chorus of Wall Street analysts raised their price targets for Tesla Inc. following a strong product launch and positive channel checks. The consensus rating remains a Strong Buy.",
+      "url": "https://finance.example.com/tsla-news-7",
+      "publishedAt": "2025-03-27T00:00:00Z",
+      "source": "Forbes",
+      "sentiment_score": 0.4562,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "TSLA_6",
+      "title": "TSLA Revenue Growth Accelerates for Third Straight Quarter",
+      "description": "Tesla Inc. posted its third consecutive quarter of accelerating revenue growth, outpacing sector peers. The company raised full-year guidance above the high end of prior estimates.",
+      "url": "https://finance.example.com/tsla-news-6",
+      "publishedAt": "2025-03-26T00:00:00Z",
+      "source": "Bloomberg",
+      "sentiment_score": 0.5556,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "TSLA_5",
+      "title": "TSLA Revenue Growth Accelerates for Third Straight Quarter",
+      "description": "Tesla Inc. posted its third consecutive quarter of accelerating revenue growth, outpacing sector peers. The company raised full-year guidance above the high end of prior estimates.",
+      "url": "https://finance.example.com/tsla-news-5",
+      "publishedAt": "2025-03-24T00:00:00Z",
+      "source": "The Wall Street Journal",
+      "sentiment_score": 0.2434,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "TSLA_4",
+      "title": "Institutional Investors Reduce TSLA Holdings by 8%",
+      "description": "SEC 13F filings reveal that major institutional investors trimmed their Tesla Inc. positions significantly in the most recent quarter, suggesting diminished conviction in the near-term outlook.",
+      "url": "https://finance.example.com/tsla-news-4",
+      "publishedAt": "2025-03-21T00:00:00Z",
+      "source": "Yahoo Finance",
+      "sentiment_score": -0.6024,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "TSLA_3",
+      "title": "TSLA Misses Revenue Estimates as Competition Intensifies",
+      "description": "Tesla Inc. reported disappointing quarterly revenues, falling short of analyst expectations for the second consecutive period. Management cited intensifying competitive pressure and softer consumer demand.",
+      "url": "https://finance.example.com/tsla-news-3",
+      "publishedAt": "2025-03-20T00:00:00Z",
+      "source": "Bloomberg",
+      "sentiment_score": -0.4784,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "TSLA_2",
+      "title": "TSLA Completes Planned Debt Refinancing at Lower Rates",
+      "description": "Tesla Inc. successfully refinanced a portion of its long-term debt at favorable rates, modestly reducing its interest expense. The transaction was in line with the company's stated capital allocation strategy.",
+      "url": "https://finance.example.com/tsla-news-2",
+      "publishedAt": "2025-03-19T00:00:00Z",
+      "source": "Business Insider",
+      "sentiment_score": -0.0192,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "TSLA_1",
+      "title": "TSLA Announces $10B Share Buyback Program",
+      "description": "Tesla Inc. revealed a new $10 billion share repurchase program, signaling management confidence in the company's long-term outlook. Analysts upgraded the stock following the announcement.",
+      "url": "https://finance.example.com/tsla-news-1",
+      "publishedAt": "2025-03-18T00:00:00Z",
+      "source": "Reuters",
+      "sentiment_score": 0.5706,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "TSLA_0",
+      "title": "TSLA Participates in Industry Conference; Reiterates Outlook",
+      "description": "Management of Tesla Inc. presented at a major industry conference, reiterating their previously issued financial guidance and discussing long-term growth initiatives without offering new financial metrics.",
+      "url": "https://finance.example.com/tsla-news-0",
+      "publishedAt": "2025-03-17T00:00:00Z",
+      "source": "Barron's",
+      "sentiment_score": -0.101,
+      "sentiment_label": "neutral"
+    }
+  ],
+  "META": [
+    {
+      "id": "META_17",
+      "title": "META CFO Departs Unexpectedly; Shares Drop",
+      "description": "Meta Platforms Inc. disclosed the sudden resignation of its Chief Financial Officer, raising governance concerns among institutional investors. The stock fell sharply as uncertainty around financial strategy increased.",
+      "url": "https://finance.example.com/meta-news-17",
+      "publishedAt": "2025-04-14T00:00:00Z",
+      "source": "Investopedia",
+      "sentiment_score": -0.7938,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "META_16",
+      "title": "META Holds Annual Shareholder Meeting; No Major Announcements",
+      "description": "Meta Platforms Inc. conducted its annual shareholder meeting with no material new announcements. Management reiterated existing guidance and outlined long-term strategic priorities consistent with prior communications.",
+      "url": "https://finance.example.com/meta-news-16",
+      "publishedAt": "2025-04-12T00:00:00Z",
+      "source": "Business Insider",
+      "sentiment_score": 0.0373,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "META_15",
+      "title": "META Wins Major Government Contract Worth $4.2B",
+      "description": "Meta Platforms Inc. secured a significant multi-year government contract, adding substantial visibility to future revenue streams. The deal is expected to be accretive to earnings starting next quarter.",
+      "url": "https://finance.example.com/meta-news-15",
+      "publishedAt": "2025-04-10T00:00:00Z",
+      "source": "Business Insider",
+      "sentiment_score": 0.6119,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "META_14",
+      "title": "META Revenue Growth Accelerates for Third Straight Quarter",
+      "description": "Meta Platforms Inc. posted its third consecutive quarter of accelerating revenue growth, outpacing sector peers. The company raised full-year guidance above the high end of prior estimates.",
+      "url": "https://finance.example.com/meta-news-14",
+      "publishedAt": "2025-04-09T00:00:00Z",
+      "source": "TechCrunch",
+      "sentiment_score": 0.4018,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "META_13",
+      "title": "META CFO Departs Unexpectedly; Shares Drop",
+      "description": "Meta Platforms Inc. disclosed the sudden resignation of its Chief Financial Officer, raising governance concerns among institutional investors. The stock fell sharply as uncertainty around financial strategy increased.",
+      "url": "https://finance.example.com/meta-news-13",
+      "publishedAt": "2025-04-08T00:00:00Z",
+      "source": "Yahoo Finance",
+      "sentiment_score": -0.2965,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "META_12",
+      "title": "META Cuts Full-Year Guidance Citing Macro Headwinds",
+      "description": "Meta Platforms Inc. lowered its full-year outlook, citing persistent macroeconomic headwinds including elevated interest rates and slowing enterprise spending. The guidance cut surprised most market observers.",
+      "url": "https://finance.example.com/meta-news-12",
+      "publishedAt": "2025-04-04T00:00:00Z",
+      "source": "The Street",
+      "sentiment_score": -0.8166,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "META_11",
+      "title": "Institutional Investors Reduce META Holdings by 8%",
+      "description": "SEC 13F filings reveal that major institutional investors trimmed their Meta Platforms Inc. positions significantly in the most recent quarter, suggesting diminished conviction in the near-term outlook.",
+      "url": "https://finance.example.com/meta-news-11",
+      "publishedAt": "2025-04-02T00:00:00Z",
+      "source": "Business Insider",
+      "sentiment_score": -0.3919,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "META_10",
+      "title": "META Wins Major Government Contract Worth $4.2B",
+      "description": "Meta Platforms Inc. secured a significant multi-year government contract, adding substantial visibility to future revenue streams. The deal is expected to be accretive to earnings starting next quarter.",
+      "url": "https://finance.example.com/meta-news-10",
+      "publishedAt": "2025-04-01T00:00:00Z",
+      "source": "Yahoo Finance",
+      "sentiment_score": 0.2868,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "META_9",
+      "title": "Institutional Investors Reduce META Holdings by 8%",
+      "description": "SEC 13F filings reveal that major institutional investors trimmed their Meta Platforms Inc. positions significantly in the most recent quarter, suggesting diminished conviction in the near-term outlook.",
+      "url": "https://finance.example.com/meta-news-9",
+      "publishedAt": "2025-03-31T00:00:00Z",
+      "source": "Financial Times",
+      "sentiment_score": -0.1984,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "META_8",
+      "title": "META Faces Regulatory Scrutiny Over Data Practices",
+      "description": "Regulators announced a formal investigation into Meta Platforms Inc.'s data handling practices, potentially exposing the company to significant fines and operational restrictions.",
+      "url": "https://finance.example.com/meta-news-8",
+      "publishedAt": "2025-03-30T00:00:00Z",
+      "source": "Business Insider",
+      "sentiment_score": -0.5469,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "META_7",
+      "title": "META Appoints New Chief Marketing Officer",
+      "description": "Meta Platforms Inc. named a veteran marketing executive as its new Chief Marketing Officer. The appointment is seen as routine and consistent with the company's ongoing leadership succession planning.",
+      "url": "https://finance.example.com/meta-news-7",
+      "publishedAt": "2025-03-28T00:00:00Z",
+      "source": "Yahoo Finance",
+      "sentiment_score": -0.0239,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "META_6",
+      "title": "META Participates in Industry Conference; Reiterates Outlook",
+      "description": "Management of Meta Platforms Inc. presented at a major industry conference, reiterating their previously issued financial guidance and discussing long-term growth initiatives without offering new financial metrics.",
+      "url": "https://finance.example.com/meta-news-6",
+      "publishedAt": "2025-03-27T00:00:00Z",
+      "source": "CNBC",
+      "sentiment_score": -0.0942,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "META_5",
+      "title": "META Completes Planned Debt Refinancing at Lower Rates",
+      "description": "Meta Platforms Inc. successfully refinanced a portion of its long-term debt at favorable rates, modestly reducing its interest expense. The transaction was in line with the company's stated capital allocation strategy.",
+      "url": "https://finance.example.com/meta-news-5",
+      "publishedAt": "2025-03-26T00:00:00Z",
+      "source": "Yahoo Finance",
+      "sentiment_score": -0.0525,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "META_4",
+      "title": "META Faces Regulatory Scrutiny Over Data Practices",
+      "description": "Regulators announced a formal investigation into Meta Platforms Inc.'s data handling practices, potentially exposing the company to significant fines and operational restrictions.",
+      "url": "https://finance.example.com/meta-news-4",
+      "publishedAt": "2025-03-23T00:00:00Z",
+      "source": "Seeking Alpha",
+      "sentiment_score": -0.629,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "META_3",
+      "title": "META Appoints New Chief Marketing Officer",
+      "description": "Meta Platforms Inc. named a veteran marketing executive as its new Chief Marketing Officer. The appointment is seen as routine and consistent with the company's ongoing leadership succession planning.",
+      "url": "https://finance.example.com/meta-news-3",
+      "publishedAt": "2025-03-22T00:00:00Z",
+      "source": "Seeking Alpha",
+      "sentiment_score": 0.119,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "META_2",
+      "title": "META Participates in Industry Conference; Reiterates Outlook",
+      "description": "Management of Meta Platforms Inc. presented at a major industry conference, reiterating their previously issued financial guidance and discussing long-term growth initiatives without offering new financial metrics.",
+      "url": "https://finance.example.com/meta-news-2",
+      "publishedAt": "2025-03-21T00:00:00Z",
+      "source": "The Wall Street Journal",
+      "sentiment_score": -0.0817,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "META_1",
+      "title": "META Faces Regulatory Scrutiny Over Data Practices",
+      "description": "Regulators announced a formal investigation into Meta Platforms Inc.'s data handling practices, potentially exposing the company to significant fines and operational restrictions.",
+      "url": "https://finance.example.com/meta-news-1",
+      "publishedAt": "2025-03-19T00:00:00Z",
+      "source": "Financial Times",
+      "sentiment_score": -0.8826,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "META_0",
+      "title": "META Completes Planned Debt Refinancing at Lower Rates",
+      "description": "Meta Platforms Inc. successfully refinanced a portion of its long-term debt at favorable rates, modestly reducing its interest expense. The transaction was in line with the company's stated capital allocation strategy.",
+      "url": "https://finance.example.com/meta-news-0",
+      "publishedAt": "2025-03-18T00:00:00Z",
+      "source": "MarketWatch",
+      "sentiment_score": -0.0945,
+      "sentiment_label": "neutral"
+    }
+  ],
+  "JPM": [
+    {
+      "id": "JPM_17",
+      "title": "JPM Participates in Industry Conference; Reiterates Outlook",
+      "description": "Management of JPMorgan Chase & Co. presented at a major industry conference, reiterating their previously issued financial guidance and discussing long-term growth initiatives without offering new financial metrics.",
+      "url": "https://finance.example.com/jpm-news-17",
+      "publishedAt": "2025-04-15T00:00:00Z",
+      "source": "MarketWatch",
+      "sentiment_score": 0.0934,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "JPM_16",
+      "title": "JPM Wins Major Government Contract Worth $4.2B",
+      "description": "JPMorgan Chase & Co. secured a significant multi-year government contract, adding substantial visibility to future revenue streams. The deal is expected to be accretive to earnings starting next quarter.",
+      "url": "https://finance.example.com/jpm-news-16",
+      "publishedAt": "2025-04-14T00:00:00Z",
+      "source": "Bloomberg",
+      "sentiment_score": 0.7465,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "JPM_15",
+      "title": "Institutional Investors Reduce JPM Holdings by 8%",
+      "description": "SEC 13F filings reveal that major institutional investors trimmed their JPMorgan Chase & Co. positions significantly in the most recent quarter, suggesting diminished conviction in the near-term outlook.",
+      "url": "https://finance.example.com/jpm-news-15",
+      "publishedAt": "2025-04-10T00:00:00Z",
+      "source": "Seeking Alpha",
+      "sentiment_score": -0.75,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "JPM_14",
+      "title": "JPM Completes Planned Debt Refinancing at Lower Rates",
+      "description": "JPMorgan Chase & Co. successfully refinanced a portion of its long-term debt at favorable rates, modestly reducing its interest expense. The transaction was in line with the company's stated capital allocation strategy.",
+      "url": "https://finance.example.com/jpm-news-14",
+      "publishedAt": "2025-04-09T00:00:00Z",
+      "source": "Seeking Alpha",
+      "sentiment_score": 0.1148,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "JPM_13",
+      "title": "JPM Faces Regulatory Scrutiny Over Data Practices",
+      "description": "Regulators announced a formal investigation into JPMorgan Chase & Co.'s data handling practices, potentially exposing the company to significant fines and operational restrictions.",
+      "url": "https://finance.example.com/jpm-news-13",
+      "publishedAt": "2025-04-08T00:00:00Z",
+      "source": "CNBC",
+      "sentiment_score": -0.6291,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "JPM_12",
+      "title": "JPM Participates in Industry Conference; Reiterates Outlook",
+      "description": "Management of JPMorgan Chase & Co. presented at a major industry conference, reiterating their previously issued financial guidance and discussing long-term growth initiatives without offering new financial metrics.",
+      "url": "https://finance.example.com/jpm-news-12",
+      "publishedAt": "2025-04-06T00:00:00Z",
+      "source": "CNBC",
+      "sentiment_score": 0.0899,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "JPM_11",
+      "title": "JPM Participates in Industry Conference; Reiterates Outlook",
+      "description": "Management of JPMorgan Chase & Co. presented at a major industry conference, reiterating their previously issued financial guidance and discussing long-term growth initiatives without offering new financial metrics.",
+      "url": "https://finance.example.com/jpm-news-11",
+      "publishedAt": "2025-04-04T00:00:00Z",
+      "source": "The Street",
+      "sentiment_score": -0.0124,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "JPM_10",
+      "title": "JPM Holds Annual Shareholder Meeting; No Major Announcements",
+      "description": "JPMorgan Chase & Co. conducted its annual shareholder meeting with no material new announcements. Management reiterated existing guidance and outlined long-term strategic priorities consistent with prior communications.",
+      "url": "https://finance.example.com/jpm-news-10",
+      "publishedAt": "2025-03-31T00:00:00Z",
+      "source": "CNBC",
+      "sentiment_score": -0.0511,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "JPM_9",
+      "title": "JPM Smashes Earnings Expectations, Stock Surges 6.6%",
+      "description": "JPMorgan Chase & Co. reported Q1 earnings that beat analyst consensus by a wide margin, driven by strong revenue growth and expanding margins. Investors reacted positively, pushing shares higher in after-hours trading.",
+      "url": "https://finance.example.com/jpm-news-9",
+      "publishedAt": "2025-03-29T00:00:00Z",
+      "source": "Bloomberg",
+      "sentiment_score": 0.2272,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "JPM_8",
+      "title": "JPM Faces Regulatory Scrutiny Over Data Practices",
+      "description": "Regulators announced a formal investigation into JPMorgan Chase & Co.'s data handling practices, potentially exposing the company to significant fines and operational restrictions.",
+      "url": "https://finance.example.com/jpm-news-8",
+      "publishedAt": "2025-03-28T00:00:00Z",
+      "source": "Forbes",
+      "sentiment_score": -0.3158,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "JPM_7",
+      "title": "JPM Misses Revenue Estimates as Competition Intensifies",
+      "description": "JPMorgan Chase & Co. reported disappointing quarterly revenues, falling short of analyst expectations for the second consecutive period. Management cited intensifying competitive pressure and softer consumer demand.",
+      "url": "https://finance.example.com/jpm-news-7",
+      "publishedAt": "2025-03-27T00:00:00Z",
+      "source": "Bloomberg",
+      "sentiment_score": -0.582,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "JPM_6",
+      "title": "JPM Misses Revenue Estimates as Competition Intensifies",
+      "description": "JPMorgan Chase & Co. reported disappointing quarterly revenues, falling short of analyst expectations for the second consecutive period. Management cited intensifying competitive pressure and softer consumer demand.",
+      "url": "https://finance.example.com/jpm-news-6",
+      "publishedAt": "2025-03-26T00:00:00Z",
+      "source": "The Street",
+      "sentiment_score": -0.5583,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "JPM_5",
+      "title": "Institutional Investors Reduce JPM Holdings by 8%",
+      "description": "SEC 13F filings reveal that major institutional investors trimmed their JPMorgan Chase & Co. positions significantly in the most recent quarter, suggesting diminished conviction in the near-term outlook.",
+      "url": "https://finance.example.com/jpm-news-5",
+      "publishedAt": "2025-03-25T00:00:00Z",
+      "source": "TechCrunch",
+      "sentiment_score": -0.7982,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "JPM_4",
+      "title": "JPM Expands into High-Growth Asian Markets",
+      "description": "JPMorgan Chase & Co. announced a strategic expansion into Southeast Asian markets, targeting a $50B addressable opportunity. The move is expected to meaningfully diversify the company's revenue base.",
+      "url": "https://finance.example.com/jpm-news-4",
+      "publishedAt": "2025-03-24T00:00:00Z",
+      "source": "TechCrunch",
+      "sentiment_score": 0.263,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "JPM_3",
+      "title": "JPM Announces $10B Share Buyback Program",
+      "description": "JPMorgan Chase & Co. revealed a new $10 billion share repurchase program, signaling management confidence in the company's long-term outlook. Analysts upgraded the stock following the announcement.",
+      "url": "https://finance.example.com/jpm-news-3",
+      "publishedAt": "2025-03-22T00:00:00Z",
+      "source": "Motley Fool",
+      "sentiment_score": 0.7627,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "JPM_2",
+      "title": "JPM Revenue Growth Accelerates for Third Straight Quarter",
+      "description": "JPMorgan Chase & Co. posted its third consecutive quarter of accelerating revenue growth, outpacing sector peers. The company raised full-year guidance above the high end of prior estimates.",
+      "url": "https://finance.example.com/jpm-news-2",
+      "publishedAt": "2025-03-20T00:00:00Z",
+      "source": "TechCrunch",
+      "sentiment_score": 0.7735,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "JPM_1",
+      "title": "JPM Announces $10B Share Buyback Program",
+      "description": "JPMorgan Chase & Co. revealed a new $10 billion share repurchase program, signaling management confidence in the company's long-term outlook. Analysts upgraded the stock following the announcement.",
+      "url": "https://finance.example.com/jpm-news-1",
+      "publishedAt": "2025-03-18T00:00:00Z",
+      "source": "The Wall Street Journal",
+      "sentiment_score": 0.9117,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "JPM_0",
+      "title": "JPM Holds Annual Shareholder Meeting; No Major Announcements",
+      "description": "JPMorgan Chase & Co. conducted its annual shareholder meeting with no material new announcements. Management reiterated existing guidance and outlined long-term strategic priorities consistent with prior communications.",
+      "url": "https://finance.example.com/jpm-news-0",
+      "publishedAt": "2025-03-17T00:00:00Z",
+      "source": "MarketWatch",
+      "sentiment_score": -0.0318,
+      "sentiment_label": "neutral"
+    }
+  ],
+  "JNJ": [
+    {
+      "id": "JNJ_17",
+      "title": "JNJ Wins Major Government Contract Worth $4.2B",
+      "description": "Johnson & Johnson secured a significant multi-year government contract, adding substantial visibility to future revenue streams. The deal is expected to be accretive to earnings starting next quarter.",
+      "url": "https://finance.example.com/jnj-news-17",
+      "publishedAt": "2025-04-15T00:00:00Z",
+      "source": "Reuters",
+      "sentiment_score": 0.2557,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "JNJ_16",
+      "title": "JNJ Expands into High-Growth Asian Markets",
+      "description": "Johnson & Johnson announced a strategic expansion into Southeast Asian markets, targeting a $50B addressable opportunity. The move is expected to meaningfully diversify the company's revenue base.",
+      "url": "https://finance.example.com/jnj-news-16",
+      "publishedAt": "2025-04-13T00:00:00Z",
+      "source": "Reuters",
+      "sentiment_score": 0.4469,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "JNJ_15",
+      "title": "JNJ Appoints New Chief Marketing Officer",
+      "description": "Johnson & Johnson named a veteran marketing executive as its new Chief Marketing Officer. The appointment is seen as routine and consistent with the company's ongoing leadership succession planning.",
+      "url": "https://finance.example.com/jnj-news-15",
+      "publishedAt": "2025-04-12T00:00:00Z",
+      "source": "CNBC",
+      "sentiment_score": -0.1003,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "JNJ_14",
+      "title": "JNJ Cuts Full-Year Guidance Citing Macro Headwinds",
+      "description": "Johnson & Johnson lowered its full-year outlook, citing persistent macroeconomic headwinds including elevated interest rates and slowing enterprise spending. The guidance cut surprised most market observers.",
+      "url": "https://finance.example.com/jnj-news-14",
+      "publishedAt": "2025-04-11T00:00:00Z",
+      "source": "Reuters",
+      "sentiment_score": -0.4311,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "JNJ_13",
+      "title": "JNJ Expands into High-Growth Asian Markets",
+      "description": "Johnson & Johnson announced a strategic expansion into Southeast Asian markets, targeting a $50B addressable opportunity. The move is expected to meaningfully diversify the company's revenue base.",
+      "url": "https://finance.example.com/jnj-news-13",
+      "publishedAt": "2025-04-10T00:00:00Z",
+      "source": "The Wall Street Journal",
+      "sentiment_score": 0.543,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "JNJ_12",
+      "title": "JNJ Appoints New Chief Marketing Officer",
+      "description": "Johnson & Johnson named a veteran marketing executive as its new Chief Marketing Officer. The appointment is seen as routine and consistent with the company's ongoing leadership succession planning.",
+      "url": "https://finance.example.com/jnj-news-12",
+      "publishedAt": "2025-04-09T00:00:00Z",
+      "source": "Business Insider",
+      "sentiment_score": 0.0229,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "JNJ_11",
+      "title": "JNJ Signs Partnership with Mid-Tier Technology Vendor",
+      "description": "Johnson & Johnson announced a partnership with a regional technology provider to enhance certain back-office capabilities. The financial terms were not disclosed and the impact on earnings is expected to be minimal.",
+      "url": "https://finance.example.com/jnj-news-11",
+      "publishedAt": "2025-04-08T00:00:00Z",
+      "source": "MarketWatch",
+      "sentiment_score": -0.0966,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "JNJ_10",
+      "title": "Institutional Investors Reduce JNJ Holdings by 8%",
+      "description": "SEC 13F filings reveal that major institutional investors trimmed their Johnson & Johnson positions significantly in the most recent quarter, suggesting diminished conviction in the near-term outlook.",
+      "url": "https://finance.example.com/jnj-news-10",
+      "publishedAt": "2025-04-07T00:00:00Z",
+      "source": "Forbes",
+      "sentiment_score": -0.8164,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "JNJ_9",
+      "title": "JNJ Appoints New Chief Marketing Officer",
+      "description": "Johnson & Johnson named a veteran marketing executive as its new Chief Marketing Officer. The appointment is seen as routine and consistent with the company's ongoing leadership succession planning.",
+      "url": "https://finance.example.com/jnj-news-9",
+      "publishedAt": "2025-04-03T00:00:00Z",
+      "source": "Financial Times",
+      "sentiment_score": 0.0803,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "JNJ_8",
+      "title": "JNJ Announces $10B Share Buyback Program",
+      "description": "Johnson & Johnson revealed a new $10 billion share repurchase program, signaling management confidence in the company's long-term outlook. Analysts upgraded the stock following the announcement.",
+      "url": "https://finance.example.com/jnj-news-8",
+      "publishedAt": "2025-04-02T00:00:00Z",
+      "source": "Financial Times",
+      "sentiment_score": 0.7074,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "JNJ_7",
+      "title": "JNJ Revenue Growth Accelerates for Third Straight Quarter",
+      "description": "Johnson & Johnson posted its third consecutive quarter of accelerating revenue growth, outpacing sector peers. The company raised full-year guidance above the high end of prior estimates.",
+      "url": "https://finance.example.com/jnj-news-7",
+      "publishedAt": "2025-04-01T00:00:00Z",
+      "source": "The Wall Street Journal",
+      "sentiment_score": 0.8673,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "JNJ_6",
+      "title": "JNJ Signs Partnership with Mid-Tier Technology Vendor",
+      "description": "Johnson & Johnson announced a partnership with a regional technology provider to enhance certain back-office capabilities. The financial terms were not disclosed and the impact on earnings is expected to be minimal.",
+      "url": "https://finance.example.com/jnj-news-6",
+      "publishedAt": "2025-03-30T00:00:00Z",
+      "source": "The Street",
+      "sentiment_score": -0.1022,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "JNJ_5",
+      "title": "JNJ Misses Revenue Estimates as Competition Intensifies",
+      "description": "Johnson & Johnson reported disappointing quarterly revenues, falling short of analyst expectations for the second consecutive period. Management cited intensifying competitive pressure and softer consumer demand.",
+      "url": "https://finance.example.com/jnj-news-5",
+      "publishedAt": "2025-03-29T00:00:00Z",
+      "source": "The Street",
+      "sentiment_score": -0.75,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "JNJ_4",
+      "title": "JNJ CFO Departs Unexpectedly; Shares Drop",
+      "description": "Johnson & Johnson disclosed the sudden resignation of its Chief Financial Officer, raising governance concerns among institutional investors. The stock fell sharply as uncertainty around financial strategy increased.",
+      "url": "https://finance.example.com/jnj-news-4",
+      "publishedAt": "2025-03-26T00:00:00Z",
+      "source": "The Wall Street Journal",
+      "sentiment_score": -0.4428,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "JNJ_3",
+      "title": "JNJ Misses Revenue Estimates as Competition Intensifies",
+      "description": "Johnson & Johnson reported disappointing quarterly revenues, falling short of analyst expectations for the second consecutive period. Management cited intensifying competitive pressure and softer consumer demand.",
+      "url": "https://finance.example.com/jnj-news-3",
+      "publishedAt": "2025-03-25T00:00:00Z",
+      "source": "Bloomberg",
+      "sentiment_score": -0.511,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "JNJ_2",
+      "title": "JNJ Completes Planned Debt Refinancing at Lower Rates",
+      "description": "Johnson & Johnson successfully refinanced a portion of its long-term debt at favorable rates, modestly reducing its interest expense. The transaction was in line with the company's stated capital allocation strategy.",
+      "url": "https://finance.example.com/jnj-news-2",
+      "publishedAt": "2025-03-19T00:00:00Z",
+      "source": "TechCrunch",
+      "sentiment_score": -0.1007,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "JNJ_1",
+      "title": "Analysts Raise JNJ Price Target to $173",
+      "description": "A chorus of Wall Street analysts raised their price targets for Johnson & Johnson following a strong product launch and positive channel checks. The consensus rating remains a Strong Buy.",
+      "url": "https://finance.example.com/jnj-news-1",
+      "publishedAt": "2025-03-18T00:00:00Z",
+      "source": "MarketWatch",
+      "sentiment_score": 0.5197,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "JNJ_0",
+      "title": "JNJ Signs Partnership with Mid-Tier Technology Vendor",
+      "description": "Johnson & Johnson announced a partnership with a regional technology provider to enhance certain back-office capabilities. The financial terms were not disclosed and the impact on earnings is expected to be minimal.",
+      "url": "https://finance.example.com/jnj-news-0",
+      "publishedAt": "2025-03-17T00:00:00Z",
+      "source": "TechCrunch",
+      "sentiment_score": 0.0063,
+      "sentiment_label": "neutral"
+    }
+  ],
+  "V": [
+    {
+      "id": "V_17",
+      "title": "V Holds Annual Shareholder Meeting; No Major Announcements",
+      "description": "Visa Inc. conducted its annual shareholder meeting with no material new announcements. Management reiterated existing guidance and outlined long-term strategic priorities consistent with prior communications.",
+      "url": "https://finance.example.com/v-news-17",
+      "publishedAt": "2025-04-14T00:00:00Z",
+      "source": "Yahoo Finance",
+      "sentiment_score": 0.0746,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "V_16",
+      "title": "V Holds Annual Shareholder Meeting; No Major Announcements",
+      "description": "Visa Inc. conducted its annual shareholder meeting with no material new announcements. Management reiterated existing guidance and outlined long-term strategic priorities consistent with prior communications.",
+      "url": "https://finance.example.com/v-news-16",
+      "publishedAt": "2025-04-13T00:00:00Z",
+      "source": "Seeking Alpha",
+      "sentiment_score": 0.076,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "V_15",
+      "title": "V Cuts Full-Year Guidance Citing Macro Headwinds",
+      "description": "Visa Inc. lowered its full-year outlook, citing persistent macroeconomic headwinds including elevated interest rates and slowing enterprise spending. The guidance cut surprised most market observers.",
+      "url": "https://finance.example.com/v-news-15",
+      "publishedAt": "2025-04-12T00:00:00Z",
+      "source": "Barron's",
+      "sentiment_score": -0.364,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "V_14",
+      "title": "V Faces Regulatory Scrutiny Over Data Practices",
+      "description": "Regulators announced a formal investigation into Visa Inc.'s data handling practices, potentially exposing the company to significant fines and operational restrictions.",
+      "url": "https://finance.example.com/v-news-14",
+      "publishedAt": "2025-04-09T00:00:00Z",
+      "source": "Seeking Alpha",
+      "sentiment_score": -0.3576,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "V_13",
+      "title": "V Participates in Industry Conference; Reiterates Outlook",
+      "description": "Management of Visa Inc. presented at a major industry conference, reiterating their previously issued financial guidance and discussing long-term growth initiatives without offering new financial metrics.",
+      "url": "https://finance.example.com/v-news-13",
+      "publishedAt": "2025-04-06T00:00:00Z",
+      "source": "Business Insider",
+      "sentiment_score": -0.0926,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "V_12",
+      "title": "V Wins Major Government Contract Worth $4.2B",
+      "description": "Visa Inc. secured a significant multi-year government contract, adding substantial visibility to future revenue streams. The deal is expected to be accretive to earnings starting next quarter.",
+      "url": "https://finance.example.com/v-news-12",
+      "publishedAt": "2025-04-05T00:00:00Z",
+      "source": "Yahoo Finance",
+      "sentiment_score": 0.7577,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "V_11",
+      "title": "V Participates in Industry Conference; Reiterates Outlook",
+      "description": "Management of Visa Inc. presented at a major industry conference, reiterating their previously issued financial guidance and discussing long-term growth initiatives without offering new financial metrics.",
+      "url": "https://finance.example.com/v-news-11",
+      "publishedAt": "2025-04-03T00:00:00Z",
+      "source": "MarketWatch",
+      "sentiment_score": 0.071,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "V_10",
+      "title": "V Signs Partnership with Mid-Tier Technology Vendor",
+      "description": "Visa Inc. announced a partnership with a regional technology provider to enhance certain back-office capabilities. The financial terms were not disclosed and the impact on earnings is expected to be minimal.",
+      "url": "https://finance.example.com/v-news-10",
+      "publishedAt": "2025-04-02T00:00:00Z",
+      "source": "Forbes",
+      "sentiment_score": -0.002,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "V_9",
+      "title": "V Wins Major Government Contract Worth $4.2B",
+      "description": "Visa Inc. secured a significant multi-year government contract, adding substantial visibility to future revenue streams. The deal is expected to be accretive to earnings starting next quarter.",
+      "url": "https://finance.example.com/v-news-9",
+      "publishedAt": "2025-03-31T00:00:00Z",
+      "source": "Financial Times",
+      "sentiment_score": 0.3244,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "V_8",
+      "title": "V Cuts Full-Year Guidance Citing Macro Headwinds",
+      "description": "Visa Inc. lowered its full-year outlook, citing persistent macroeconomic headwinds including elevated interest rates and slowing enterprise spending. The guidance cut surprised most market observers.",
+      "url": "https://finance.example.com/v-news-8",
+      "publishedAt": "2025-03-30T00:00:00Z",
+      "source": "Yahoo Finance",
+      "sentiment_score": -0.2969,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "V_7",
+      "title": "V Expands into High-Growth Asian Markets",
+      "description": "Visa Inc. announced a strategic expansion into Southeast Asian markets, targeting a $50B addressable opportunity. The move is expected to meaningfully diversify the company's revenue base.",
+      "url": "https://finance.example.com/v-news-7",
+      "publishedAt": "2025-03-29T00:00:00Z",
+      "source": "CNBC",
+      "sentiment_score": 0.8687,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "V_6",
+      "title": "Institutional Investors Reduce V Holdings by 8%",
+      "description": "SEC 13F filings reveal that major institutional investors trimmed their Visa Inc. positions significantly in the most recent quarter, suggesting diminished conviction in the near-term outlook.",
+      "url": "https://finance.example.com/v-news-6",
+      "publishedAt": "2025-03-28T00:00:00Z",
+      "source": "Financial Times",
+      "sentiment_score": -0.4946,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "V_5",
+      "title": "V CFO Departs Unexpectedly; Shares Drop",
+      "description": "Visa Inc. disclosed the sudden resignation of its Chief Financial Officer, raising governance concerns among institutional investors. The stock fell sharply as uncertainty around financial strategy increased.",
+      "url": "https://finance.example.com/v-news-5",
+      "publishedAt": "2025-03-27T00:00:00Z",
+      "source": "The Wall Street Journal",
+      "sentiment_score": -0.8335,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "V_4",
+      "title": "V CFO Departs Unexpectedly; Shares Drop",
+      "description": "Visa Inc. disclosed the sudden resignation of its Chief Financial Officer, raising governance concerns among institutional investors. The stock fell sharply as uncertainty around financial strategy increased.",
+      "url": "https://finance.example.com/v-news-4",
+      "publishedAt": "2025-03-26T00:00:00Z",
+      "source": "Yahoo Finance",
+      "sentiment_score": -0.6999,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "V_3",
+      "title": "Analysts Raise V Price Target to $322",
+      "description": "A chorus of Wall Street analysts raised their price targets for Visa Inc. following a strong product launch and positive channel checks. The consensus rating remains a Strong Buy.",
+      "url": "https://finance.example.com/v-news-3",
+      "publishedAt": "2025-03-24T00:00:00Z",
+      "source": "TechCrunch",
+      "sentiment_score": 0.4375,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "V_2",
+      "title": "Analysts Raise V Price Target to $302",
+      "description": "A chorus of Wall Street analysts raised their price targets for Visa Inc. following a strong product launch and positive channel checks. The consensus rating remains a Strong Buy.",
+      "url": "https://finance.example.com/v-news-2",
+      "publishedAt": "2025-03-22T00:00:00Z",
+      "source": "Investopedia",
+      "sentiment_score": 0.5422,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "V_1",
+      "title": "V Holds Annual Shareholder Meeting; No Major Announcements",
+      "description": "Visa Inc. conducted its annual shareholder meeting with no material new announcements. Management reiterated existing guidance and outlined long-term strategic priorities consistent with prior communications.",
+      "url": "https://finance.example.com/v-news-1",
+      "publishedAt": "2025-03-20T00:00:00Z",
+      "source": "The Wall Street Journal",
+      "sentiment_score": 0.0089,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "V_0",
+      "title": "Analysts Raise V Price Target to $313",
+      "description": "A chorus of Wall Street analysts raised their price targets for Visa Inc. following a strong product launch and positive channel checks. The consensus rating remains a Strong Buy.",
+      "url": "https://finance.example.com/v-news-0",
+      "publishedAt": "2025-03-17T00:00:00Z",
+      "source": "Business Insider",
+      "sentiment_score": 0.3323,
+      "sentiment_label": "bullish"
+    }
+  ],
+  "WMT": [
+    {
+      "id": "WMT_17",
+      "title": "WMT Holds Annual Shareholder Meeting; No Major Announcements",
+      "description": "Walmart Inc. conducted its annual shareholder meeting with no material new announcements. Management reiterated existing guidance and outlined long-term strategic priorities consistent with prior communications.",
+      "url": "https://finance.example.com/wmt-news-17",
+      "publishedAt": "2025-04-14T00:00:00Z",
+      "source": "Financial Times",
+      "sentiment_score": 0.0578,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "WMT_16",
+      "title": "WMT Smashes Earnings Expectations, Stock Surges 6.9%",
+      "description": "Walmart Inc. reported Q1 earnings that beat analyst consensus by a wide margin, driven by strong revenue growth and expanding margins. Investors reacted positively, pushing shares higher in after-hours trading.",
+      "url": "https://finance.example.com/wmt-news-16",
+      "publishedAt": "2025-04-13T00:00:00Z",
+      "source": "The Street",
+      "sentiment_score": 0.2911,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "WMT_15",
+      "title": "WMT Misses Revenue Estimates as Competition Intensifies",
+      "description": "Walmart Inc. reported disappointing quarterly revenues, falling short of analyst expectations for the second consecutive period. Management cited intensifying competitive pressure and softer consumer demand.",
+      "url": "https://finance.example.com/wmt-news-15",
+      "publishedAt": "2025-04-11T00:00:00Z",
+      "source": "TechCrunch",
+      "sentiment_score": -0.8874,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "WMT_14",
+      "title": "Institutional Investors Reduce WMT Holdings by 8%",
+      "description": "SEC 13F filings reveal that major institutional investors trimmed their Walmart Inc. positions significantly in the most recent quarter, suggesting diminished conviction in the near-term outlook.",
+      "url": "https://finance.example.com/wmt-news-14",
+      "publishedAt": "2025-04-10T00:00:00Z",
+      "source": "The Street",
+      "sentiment_score": -0.3477,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "WMT_13",
+      "title": "WMT Signs Partnership with Mid-Tier Technology Vendor",
+      "description": "Walmart Inc. announced a partnership with a regional technology provider to enhance certain back-office capabilities. The financial terms were not disclosed and the impact on earnings is expected to be minimal.",
+      "url": "https://finance.example.com/wmt-news-13",
+      "publishedAt": "2025-04-09T00:00:00Z",
+      "source": "Bloomberg",
+      "sentiment_score": 0.0026,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "WMT_12",
+      "title": "WMT Holds Annual Shareholder Meeting; No Major Announcements",
+      "description": "Walmart Inc. conducted its annual shareholder meeting with no material new announcements. Management reiterated existing guidance and outlined long-term strategic priorities consistent with prior communications.",
+      "url": "https://finance.example.com/wmt-news-12",
+      "publishedAt": "2025-04-07T00:00:00Z",
+      "source": "Barron's",
+      "sentiment_score": 0.0057,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "WMT_11",
+      "title": "WMT Completes Planned Debt Refinancing at Lower Rates",
+      "description": "Walmart Inc. successfully refinanced a portion of its long-term debt at favorable rates, modestly reducing its interest expense. The transaction was in line with the company's stated capital allocation strategy.",
+      "url": "https://finance.example.com/wmt-news-11",
+      "publishedAt": "2025-04-06T00:00:00Z",
+      "source": "Forbes",
+      "sentiment_score": 0.0896,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "WMT_10",
+      "title": "WMT Completes Planned Debt Refinancing at Lower Rates",
+      "description": "Walmart Inc. successfully refinanced a portion of its long-term debt at favorable rates, modestly reducing its interest expense. The transaction was in line with the company's stated capital allocation strategy.",
+      "url": "https://finance.example.com/wmt-news-10",
+      "publishedAt": "2025-04-05T00:00:00Z",
+      "source": "TechCrunch",
+      "sentiment_score": 0.0041,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "WMT_9",
+      "title": "WMT Expands into High-Growth Asian Markets",
+      "description": "Walmart Inc. announced a strategic expansion into Southeast Asian markets, targeting a $50B addressable opportunity. The move is expected to meaningfully diversify the company's revenue base.",
+      "url": "https://finance.example.com/wmt-news-9",
+      "publishedAt": "2025-04-03T00:00:00Z",
+      "source": "CNBC",
+      "sentiment_score": 0.1894,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "WMT_8",
+      "title": "WMT Smashes Earnings Expectations, Stock Surges 4.5%",
+      "description": "Walmart Inc. reported Q1 earnings that beat analyst consensus by a wide margin, driven by strong revenue growth and expanding margins. Investors reacted positively, pushing shares higher in after-hours trading.",
+      "url": "https://finance.example.com/wmt-news-8",
+      "publishedAt": "2025-04-02T00:00:00Z",
+      "source": "Bloomberg",
+      "sentiment_score": 0.6331,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "WMT_7",
+      "title": "WMT Misses Revenue Estimates as Competition Intensifies",
+      "description": "Walmart Inc. reported disappointing quarterly revenues, falling short of analyst expectations for the second consecutive period. Management cited intensifying competitive pressure and softer consumer demand.",
+      "url": "https://finance.example.com/wmt-news-7",
+      "publishedAt": "2025-04-01T00:00:00Z",
+      "source": "MarketWatch",
+      "sentiment_score": -0.2145,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "WMT_6",
+      "title": "WMT Completes Planned Debt Refinancing at Lower Rates",
+      "description": "Walmart Inc. successfully refinanced a portion of its long-term debt at favorable rates, modestly reducing its interest expense. The transaction was in line with the company's stated capital allocation strategy.",
+      "url": "https://finance.example.com/wmt-news-6",
+      "publishedAt": "2025-03-29T00:00:00Z",
+      "source": "TechCrunch",
+      "sentiment_score": 0.0322,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "WMT_5",
+      "title": "Institutional Investors Reduce WMT Holdings by 8%",
+      "description": "SEC 13F filings reveal that major institutional investors trimmed their Walmart Inc. positions significantly in the most recent quarter, suggesting diminished conviction in the near-term outlook.",
+      "url": "https://finance.example.com/wmt-news-5",
+      "publishedAt": "2025-03-26T00:00:00Z",
+      "source": "Motley Fool",
+      "sentiment_score": -0.6907,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "WMT_4",
+      "title": "WMT Expands into High-Growth Asian Markets",
+      "description": "Walmart Inc. announced a strategic expansion into Southeast Asian markets, targeting a $50B addressable opportunity. The move is expected to meaningfully diversify the company's revenue base.",
+      "url": "https://finance.example.com/wmt-news-4",
+      "publishedAt": "2025-03-24T00:00:00Z",
+      "source": "Reuters",
+      "sentiment_score": 0.6993,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "WMT_3",
+      "title": "WMT Announces $10B Share Buyback Program",
+      "description": "Walmart Inc. revealed a new $10 billion share repurchase program, signaling management confidence in the company's long-term outlook. Analysts upgraded the stock following the announcement.",
+      "url": "https://finance.example.com/wmt-news-3",
+      "publishedAt": "2025-03-23T00:00:00Z",
+      "source": "Motley Fool",
+      "sentiment_score": 0.7641,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "WMT_2",
+      "title": "WMT Cuts Full-Year Guidance Citing Macro Headwinds",
+      "description": "Walmart Inc. lowered its full-year outlook, citing persistent macroeconomic headwinds including elevated interest rates and slowing enterprise spending. The guidance cut surprised most market observers.",
+      "url": "https://finance.example.com/wmt-news-2",
+      "publishedAt": "2025-03-20T00:00:00Z",
+      "source": "Reuters",
+      "sentiment_score": -0.9076,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "WMT_1",
+      "title": "WMT Completes Planned Debt Refinancing at Lower Rates",
+      "description": "Walmart Inc. successfully refinanced a portion of its long-term debt at favorable rates, modestly reducing its interest expense. The transaction was in line with the company's stated capital allocation strategy.",
+      "url": "https://finance.example.com/wmt-news-1",
+      "publishedAt": "2025-03-18T00:00:00Z",
+      "source": "Motley Fool",
+      "sentiment_score": -0.019,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "WMT_0",
+      "title": "Institutional Investors Reduce WMT Holdings by 8%",
+      "description": "SEC 13F filings reveal that major institutional investors trimmed their Walmart Inc. positions significantly in the most recent quarter, suggesting diminished conviction in the near-term outlook.",
+      "url": "https://finance.example.com/wmt-news-0",
+      "publishedAt": "2025-03-17T00:00:00Z",
+      "source": "The Wall Street Journal",
+      "sentiment_score": -0.9111,
+      "sentiment_label": "bearish"
+    }
+  ],
+  "XOM": [
+    {
+      "id": "XOM_17",
+      "title": "XOM Expands into High-Growth Asian Markets",
+      "description": "Exxon Mobil Corporation announced a strategic expansion into Southeast Asian markets, targeting a $50B addressable opportunity. The move is expected to meaningfully diversify the company's revenue base.",
+      "url": "https://finance.example.com/xom-news-17",
+      "publishedAt": "2025-04-15T00:00:00Z",
+      "source": "Forbes",
+      "sentiment_score": 0.7193,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "XOM_16",
+      "title": "XOM Signs Partnership with Mid-Tier Technology Vendor",
+      "description": "Exxon Mobil Corporation announced a partnership with a regional technology provider to enhance certain back-office capabilities. The financial terms were not disclosed and the impact on earnings is expected to be minimal.",
+      "url": "https://finance.example.com/xom-news-16",
+      "publishedAt": "2025-04-14T00:00:00Z",
+      "source": "CNBC",
+      "sentiment_score": 0.0213,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "XOM_15",
+      "title": "XOM Participates in Industry Conference; Reiterates Outlook",
+      "description": "Management of Exxon Mobil Corporation presented at a major industry conference, reiterating their previously issued financial guidance and discussing long-term growth initiatives without offering new financial metrics.",
+      "url": "https://finance.example.com/xom-news-15",
+      "publishedAt": "2025-04-13T00:00:00Z",
+      "source": "Forbes",
+      "sentiment_score": 0.1125,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "XOM_14",
+      "title": "XOM Smashes Earnings Expectations, Stock Surges 6.4%",
+      "description": "Exxon Mobil Corporation reported Q1 earnings that beat analyst consensus by a wide margin, driven by strong revenue growth and expanding margins. Investors reacted positively, pushing shares higher in after-hours trading.",
+      "url": "https://finance.example.com/xom-news-14",
+      "publishedAt": "2025-04-12T00:00:00Z",
+      "source": "Forbes",
+      "sentiment_score": 0.9021,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "XOM_13",
+      "title": "XOM Signs Partnership with Mid-Tier Technology Vendor",
+      "description": "Exxon Mobil Corporation announced a partnership with a regional technology provider to enhance certain back-office capabilities. The financial terms were not disclosed and the impact on earnings is expected to be minimal.",
+      "url": "https://finance.example.com/xom-news-13",
+      "publishedAt": "2025-04-11T00:00:00Z",
+      "source": "Investopedia",
+      "sentiment_score": -0.0303,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "XOM_12",
+      "title": "XOM Appoints New Chief Marketing Officer",
+      "description": "Exxon Mobil Corporation named a veteran marketing executive as its new Chief Marketing Officer. The appointment is seen as routine and consistent with the company's ongoing leadership succession planning.",
+      "url": "https://finance.example.com/xom-news-12",
+      "publishedAt": "2025-04-08T00:00:00Z",
+      "source": "CNBC",
+      "sentiment_score": 0.0491,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "XOM_11",
+      "title": "XOM Misses Revenue Estimates as Competition Intensifies",
+      "description": "Exxon Mobil Corporation reported disappointing quarterly revenues, falling short of analyst expectations for the second consecutive period. Management cited intensifying competitive pressure and softer consumer demand.",
+      "url": "https://finance.example.com/xom-news-11",
+      "publishedAt": "2025-04-06T00:00:00Z",
+      "source": "The Wall Street Journal",
+      "sentiment_score": -0.3232,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "XOM_10",
+      "title": "Analysts Raise XOM Price Target to $122",
+      "description": "A chorus of Wall Street analysts raised their price targets for Exxon Mobil Corporation following a strong product launch and positive channel checks. The consensus rating remains a Strong Buy.",
+      "url": "https://finance.example.com/xom-news-10",
+      "publishedAt": "2025-04-05T00:00:00Z",
+      "source": "Bloomberg",
+      "sentiment_score": 0.6252,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "XOM_9",
+      "title": "XOM Announces $10B Share Buyback Program",
+      "description": "Exxon Mobil Corporation revealed a new $10 billion share repurchase program, signaling management confidence in the company's long-term outlook. Analysts upgraded the stock following the announcement.",
+      "url": "https://finance.example.com/xom-news-9",
+      "publishedAt": "2025-04-04T00:00:00Z",
+      "source": "Motley Fool",
+      "sentiment_score": 0.8981,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "XOM_8",
+      "title": "XOM Revenue Growth Accelerates for Third Straight Quarter",
+      "description": "Exxon Mobil Corporation posted its third consecutive quarter of accelerating revenue growth, outpacing sector peers. The company raised full-year guidance above the high end of prior estimates.",
+      "url": "https://finance.example.com/xom-news-8",
+      "publishedAt": "2025-04-03T00:00:00Z",
+      "source": "Yahoo Finance",
+      "sentiment_score": 0.8812,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "XOM_7",
+      "title": "XOM Completes Planned Debt Refinancing at Lower Rates",
+      "description": "Exxon Mobil Corporation successfully refinanced a portion of its long-term debt at favorable rates, modestly reducing its interest expense. The transaction was in line with the company's stated capital allocation strategy.",
+      "url": "https://finance.example.com/xom-news-7",
+      "publishedAt": "2025-04-01T00:00:00Z",
+      "source": "Forbes",
+      "sentiment_score": 0.0735,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "XOM_6",
+      "title": "XOM Announces $10B Share Buyback Program",
+      "description": "Exxon Mobil Corporation revealed a new $10 billion share repurchase program, signaling management confidence in the company's long-term outlook. Analysts upgraded the stock following the announcement.",
+      "url": "https://finance.example.com/xom-news-6",
+      "publishedAt": "2025-03-30T00:00:00Z",
+      "source": "The Street",
+      "sentiment_score": 0.4674,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "XOM_5",
+      "title": "XOM Expands into High-Growth Asian Markets",
+      "description": "Exxon Mobil Corporation announced a strategic expansion into Southeast Asian markets, targeting a $50B addressable opportunity. The move is expected to meaningfully diversify the company's revenue base.",
+      "url": "https://finance.example.com/xom-news-5",
+      "publishedAt": "2025-03-26T00:00:00Z",
+      "source": "Forbes",
+      "sentiment_score": 0.7655,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "XOM_4",
+      "title": "XOM Participates in Industry Conference; Reiterates Outlook",
+      "description": "Management of Exxon Mobil Corporation presented at a major industry conference, reiterating their previously issued financial guidance and discussing long-term growth initiatives without offering new financial metrics.",
+      "url": "https://finance.example.com/xom-news-4",
+      "publishedAt": "2025-03-24T00:00:00Z",
+      "source": "CNBC",
+      "sentiment_score": 0.1199,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "XOM_3",
+      "title": "XOM Revenue Growth Accelerates for Third Straight Quarter",
+      "description": "Exxon Mobil Corporation posted its third consecutive quarter of accelerating revenue growth, outpacing sector peers. The company raised full-year guidance above the high end of prior estimates.",
+      "url": "https://finance.example.com/xom-news-3",
+      "publishedAt": "2025-03-23T00:00:00Z",
+      "source": "Bloomberg",
+      "sentiment_score": 0.7561,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "XOM_2",
+      "title": "XOM Appoints New Chief Marketing Officer",
+      "description": "Exxon Mobil Corporation named a veteran marketing executive as its new Chief Marketing Officer. The appointment is seen as routine and consistent with the company's ongoing leadership succession planning.",
+      "url": "https://finance.example.com/xom-news-2",
+      "publishedAt": "2025-03-21T00:00:00Z",
+      "source": "CNBC",
+      "sentiment_score": -0.0268,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "XOM_1",
+      "title": "XOM Misses Revenue Estimates as Competition Intensifies",
+      "description": "Exxon Mobil Corporation reported disappointing quarterly revenues, falling short of analyst expectations for the second consecutive period. Management cited intensifying competitive pressure and softer consumer demand.",
+      "url": "https://finance.example.com/xom-news-1",
+      "publishedAt": "2025-03-19T00:00:00Z",
+      "source": "Motley Fool",
+      "sentiment_score": -0.6543,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "XOM_0",
+      "title": "XOM Expands into High-Growth Asian Markets",
+      "description": "Exxon Mobil Corporation announced a strategic expansion into Southeast Asian markets, targeting a $50B addressable opportunity. The move is expected to meaningfully diversify the company's revenue base.",
+      "url": "https://finance.example.com/xom-news-0",
+      "publishedAt": "2025-03-18T00:00:00Z",
+      "source": "Business Insider",
+      "sentiment_score": 0.6468,
+      "sentiment_label": "bullish"
+    }
+  ],
+  "BAC": [
+    {
+      "id": "BAC_17",
+      "title": "BAC Holds Annual Shareholder Meeting; No Major Announcements",
+      "description": "Bank of America Corp. conducted its annual shareholder meeting with no material new announcements. Management reiterated existing guidance and outlined long-term strategic priorities consistent with prior communications.",
+      "url": "https://finance.example.com/bac-news-17",
+      "publishedAt": "2025-04-15T00:00:00Z",
+      "source": "Business Insider",
+      "sentiment_score": -0.0784,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "BAC_16",
+      "title": "BAC Completes Planned Debt Refinancing at Lower Rates",
+      "description": "Bank of America Corp. successfully refinanced a portion of its long-term debt at favorable rates, modestly reducing its interest expense. The transaction was in line with the company's stated capital allocation strategy.",
+      "url": "https://finance.example.com/bac-news-16",
+      "publishedAt": "2025-04-14T00:00:00Z",
+      "source": "Bloomberg",
+      "sentiment_score": -0.0217,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "BAC_15",
+      "title": "BAC Smashes Earnings Expectations, Stock Surges 4.9%",
+      "description": "Bank of America Corp. reported Q1 earnings that beat analyst consensus by a wide margin, driven by strong revenue growth and expanding margins. Investors reacted positively, pushing shares higher in after-hours trading.",
+      "url": "https://finance.example.com/bac-news-15",
+      "publishedAt": "2025-04-13T00:00:00Z",
+      "source": "MarketWatch",
+      "sentiment_score": 0.6035,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "BAC_14",
+      "title": "BAC Faces Regulatory Scrutiny Over Data Practices",
+      "description": "Regulators announced a formal investigation into Bank of America Corp.'s data handling practices, potentially exposing the company to significant fines and operational restrictions.",
+      "url": "https://finance.example.com/bac-news-14",
+      "publishedAt": "2025-04-11T00:00:00Z",
+      "source": "Forbes",
+      "sentiment_score": -0.3658,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "BAC_13",
+      "title": "Analysts Raise BAC Price Target to $45",
+      "description": "A chorus of Wall Street analysts raised their price targets for Bank of America Corp. following a strong product launch and positive channel checks. The consensus rating remains a Strong Buy.",
+      "url": "https://finance.example.com/bac-news-13",
+      "publishedAt": "2025-04-08T00:00:00Z",
+      "source": "Yahoo Finance",
+      "sentiment_score": 0.8242,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "BAC_12",
+      "title": "Analysts Raise BAC Price Target to $45",
+      "description": "A chorus of Wall Street analysts raised their price targets for Bank of America Corp. following a strong product launch and positive channel checks. The consensus rating remains a Strong Buy.",
+      "url": "https://finance.example.com/bac-news-12",
+      "publishedAt": "2025-04-05T00:00:00Z",
+      "source": "Bloomberg",
+      "sentiment_score": 0.2717,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "BAC_11",
+      "title": "BAC Smashes Earnings Expectations, Stock Surges 11.7%",
+      "description": "Bank of America Corp. reported Q1 earnings that beat analyst consensus by a wide margin, driven by strong revenue growth and expanding margins. Investors reacted positively, pushing shares higher in after-hours trading.",
+      "url": "https://finance.example.com/bac-news-11",
+      "publishedAt": "2025-04-04T00:00:00Z",
+      "source": "Barron's",
+      "sentiment_score": 0.7014,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "BAC_10",
+      "title": "BAC Signs Partnership with Mid-Tier Technology Vendor",
+      "description": "Bank of America Corp. announced a partnership with a regional technology provider to enhance certain back-office capabilities. The financial terms were not disclosed and the impact on earnings is expected to be minimal.",
+      "url": "https://finance.example.com/bac-news-10",
+      "publishedAt": "2025-04-03T00:00:00Z",
+      "source": "TechCrunch",
+      "sentiment_score": 0.0799,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "BAC_9",
+      "title": "BAC Announces $10B Share Buyback Program",
+      "description": "Bank of America Corp. revealed a new $10 billion share repurchase program, signaling management confidence in the company's long-term outlook. Analysts upgraded the stock following the announcement.",
+      "url": "https://finance.example.com/bac-news-9",
+      "publishedAt": "2025-04-02T00:00:00Z",
+      "source": "Business Insider",
+      "sentiment_score": 0.4785,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "BAC_8",
+      "title": "BAC Participates in Industry Conference; Reiterates Outlook",
+      "description": "Management of Bank of America Corp. presented at a major industry conference, reiterating their previously issued financial guidance and discussing long-term growth initiatives without offering new financial metrics.",
+      "url": "https://finance.example.com/bac-news-8",
+      "publishedAt": "2025-03-31T00:00:00Z",
+      "source": "TechCrunch",
+      "sentiment_score": 0.0881,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "BAC_7",
+      "title": "BAC Expands into High-Growth Asian Markets",
+      "description": "Bank of America Corp. announced a strategic expansion into Southeast Asian markets, targeting a $50B addressable opportunity. The move is expected to meaningfully diversify the company's revenue base.",
+      "url": "https://finance.example.com/bac-news-7",
+      "publishedAt": "2025-03-30T00:00:00Z",
+      "source": "MarketWatch",
+      "sentiment_score": 0.3191,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "BAC_6",
+      "title": "BAC Announces $10B Share Buyback Program",
+      "description": "Bank of America Corp. revealed a new $10 billion share repurchase program, signaling management confidence in the company's long-term outlook. Analysts upgraded the stock following the announcement.",
+      "url": "https://finance.example.com/bac-news-6",
+      "publishedAt": "2025-03-29T00:00:00Z",
+      "source": "TechCrunch",
+      "sentiment_score": 0.5079,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "BAC_5",
+      "title": "BAC Wins Major Government Contract Worth $4.2B",
+      "description": "Bank of America Corp. secured a significant multi-year government contract, adding substantial visibility to future revenue streams. The deal is expected to be accretive to earnings starting next quarter.",
+      "url": "https://finance.example.com/bac-news-5",
+      "publishedAt": "2025-03-27T00:00:00Z",
+      "source": "Investopedia",
+      "sentiment_score": 0.8151,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "BAC_4",
+      "title": "BAC Announces $10B Share Buyback Program",
+      "description": "Bank of America Corp. revealed a new $10 billion share repurchase program, signaling management confidence in the company's long-term outlook. Analysts upgraded the stock following the announcement.",
+      "url": "https://finance.example.com/bac-news-4",
+      "publishedAt": "2025-03-25T00:00:00Z",
+      "source": "The Wall Street Journal",
+      "sentiment_score": 0.3788,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "BAC_3",
+      "title": "BAC Revenue Growth Accelerates for Third Straight Quarter",
+      "description": "Bank of America Corp. posted its third consecutive quarter of accelerating revenue growth, outpacing sector peers. The company raised full-year guidance above the high end of prior estimates.",
+      "url": "https://finance.example.com/bac-news-3",
+      "publishedAt": "2025-03-23T00:00:00Z",
+      "source": "The Street",
+      "sentiment_score": 0.4729,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "BAC_2",
+      "title": "Analysts Raise BAC Price Target to $45",
+      "description": "A chorus of Wall Street analysts raised their price targets for Bank of America Corp. following a strong product launch and positive channel checks. The consensus rating remains a Strong Buy.",
+      "url": "https://finance.example.com/bac-news-2",
+      "publishedAt": "2025-03-20T00:00:00Z",
+      "source": "Financial Times",
+      "sentiment_score": 0.3074,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "BAC_1",
+      "title": "BAC Appoints New Chief Marketing Officer",
+      "description": "Bank of America Corp. named a veteran marketing executive as its new Chief Marketing Officer. The appointment is seen as routine and consistent with the company's ongoing leadership succession planning.",
+      "url": "https://finance.example.com/bac-news-1",
+      "publishedAt": "2025-03-19T00:00:00Z",
+      "source": "Barron's",
+      "sentiment_score": 0.0907,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "BAC_0",
+      "title": "Institutional Investors Reduce BAC Holdings by 8%",
+      "description": "SEC 13F filings reveal that major institutional investors trimmed their Bank of America Corp. positions significantly in the most recent quarter, suggesting diminished conviction in the near-term outlook.",
+      "url": "https://finance.example.com/bac-news-0",
+      "publishedAt": "2025-03-17T00:00:00Z",
+      "source": "Yahoo Finance",
+      "sentiment_score": -0.2356,
+      "sentiment_label": "bearish"
+    }
+  ],
+  "DIS": [
+    {
+      "id": "DIS_17",
+      "title": "DIS Completes Planned Debt Refinancing at Lower Rates",
+      "description": "The Walt Disney Company successfully refinanced a portion of its long-term debt at favorable rates, modestly reducing its interest expense. The transaction was in line with the company's stated capital allocation strategy.",
+      "url": "https://finance.example.com/dis-news-17",
+      "publishedAt": "2025-04-15T00:00:00Z",
+      "source": "Yahoo Finance",
+      "sentiment_score": -0.0042,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "DIS_16",
+      "title": "DIS Cuts Full-Year Guidance Citing Macro Headwinds",
+      "description": "The Walt Disney Company lowered its full-year outlook, citing persistent macroeconomic headwinds including elevated interest rates and slowing enterprise spending. The guidance cut surprised most market observers.",
+      "url": "https://finance.example.com/dis-news-16",
+      "publishedAt": "2025-04-14T00:00:00Z",
+      "source": "Forbes",
+      "sentiment_score": -0.8363,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "DIS_15",
+      "title": "Analysts Raise DIS Price Target to $137",
+      "description": "A chorus of Wall Street analysts raised their price targets for The Walt Disney Company following a strong product launch and positive channel checks. The consensus rating remains a Strong Buy.",
+      "url": "https://finance.example.com/dis-news-15",
+      "publishedAt": "2025-04-13T00:00:00Z",
+      "source": "TechCrunch",
+      "sentiment_score": 0.4654,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "DIS_14",
+      "title": "DIS Appoints New Chief Marketing Officer",
+      "description": "The Walt Disney Company named a veteran marketing executive as its new Chief Marketing Officer. The appointment is seen as routine and consistent with the company's ongoing leadership succession planning.",
+      "url": "https://finance.example.com/dis-news-14",
+      "publishedAt": "2025-04-12T00:00:00Z",
+      "source": "CNBC",
+      "sentiment_score": 0.0756,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "DIS_13",
+      "title": "DIS Announces $10B Share Buyback Program",
+      "description": "The Walt Disney Company revealed a new $10 billion share repurchase program, signaling management confidence in the company's long-term outlook. Analysts upgraded the stock following the announcement.",
+      "url": "https://finance.example.com/dis-news-13",
+      "publishedAt": "2025-04-11T00:00:00Z",
+      "source": "Seeking Alpha",
+      "sentiment_score": 0.4446,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "DIS_12",
+      "title": "DIS Appoints New Chief Marketing Officer",
+      "description": "The Walt Disney Company named a veteran marketing executive as its new Chief Marketing Officer. The appointment is seen as routine and consistent with the company's ongoing leadership succession planning.",
+      "url": "https://finance.example.com/dis-news-12",
+      "publishedAt": "2025-04-10T00:00:00Z",
+      "source": "The Street",
+      "sentiment_score": 0.0843,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "DIS_11",
+      "title": "DIS Misses Revenue Estimates as Competition Intensifies",
+      "description": "The Walt Disney Company reported disappointing quarterly revenues, falling short of analyst expectations for the second consecutive period. Management cited intensifying competitive pressure and softer consumer demand.",
+      "url": "https://finance.example.com/dis-news-11",
+      "publishedAt": "2025-04-08T00:00:00Z",
+      "source": "The Wall Street Journal",
+      "sentiment_score": -0.2893,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "DIS_10",
+      "title": "DIS Wins Major Government Contract Worth $4.2B",
+      "description": "The Walt Disney Company secured a significant multi-year government contract, adding substantial visibility to future revenue streams. The deal is expected to be accretive to earnings starting next quarter.",
+      "url": "https://finance.example.com/dis-news-10",
+      "publishedAt": "2025-04-07T00:00:00Z",
+      "source": "Barron's",
+      "sentiment_score": 0.9032,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "DIS_9",
+      "title": "DIS CFO Departs Unexpectedly; Shares Drop",
+      "description": "The Walt Disney Company disclosed the sudden resignation of its Chief Financial Officer, raising governance concerns among institutional investors. The stock fell sharply as uncertainty around financial strategy increased.",
+      "url": "https://finance.example.com/dis-news-9",
+      "publishedAt": "2025-04-02T00:00:00Z",
+      "source": "Forbes",
+      "sentiment_score": -0.8645,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "DIS_8",
+      "title": "DIS Smashes Earnings Expectations, Stock Surges 4.3%",
+      "description": "The Walt Disney Company reported Q1 earnings that beat analyst consensus by a wide margin, driven by strong revenue growth and expanding margins. Investors reacted positively, pushing shares higher in after-hours trading.",
+      "url": "https://finance.example.com/dis-news-8",
+      "publishedAt": "2025-04-01T00:00:00Z",
+      "source": "Yahoo Finance",
+      "sentiment_score": 0.2617,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "DIS_7",
+      "title": "DIS Smashes Earnings Expectations, Stock Surges 11.6%",
+      "description": "The Walt Disney Company reported Q1 earnings that beat analyst consensus by a wide margin, driven by strong revenue growth and expanding margins. Investors reacted positively, pushing shares higher in after-hours trading.",
+      "url": "https://finance.example.com/dis-news-7",
+      "publishedAt": "2025-03-29T00:00:00Z",
+      "source": "Seeking Alpha",
+      "sentiment_score": 0.6893,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "DIS_6",
+      "title": "DIS Faces Regulatory Scrutiny Over Data Practices",
+      "description": "Regulators announced a formal investigation into The Walt Disney Company's data handling practices, potentially exposing the company to significant fines and operational restrictions.",
+      "url": "https://finance.example.com/dis-news-6",
+      "publishedAt": "2025-03-28T00:00:00Z",
+      "source": "Financial Times",
+      "sentiment_score": -0.6551,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "DIS_5",
+      "title": "Institutional Investors Reduce DIS Holdings by 8%",
+      "description": "SEC 13F filings reveal that major institutional investors trimmed their The Walt Disney Company positions significantly in the most recent quarter, suggesting diminished conviction in the near-term outlook.",
+      "url": "https://finance.example.com/dis-news-5",
+      "publishedAt": "2025-03-24T00:00:00Z",
+      "source": "MarketWatch",
+      "sentiment_score": -0.8414,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "DIS_4",
+      "title": "Institutional Investors Reduce DIS Holdings by 8%",
+      "description": "SEC 13F filings reveal that major institutional investors trimmed their The Walt Disney Company positions significantly in the most recent quarter, suggesting diminished conviction in the near-term outlook.",
+      "url": "https://finance.example.com/dis-news-4",
+      "publishedAt": "2025-03-23T00:00:00Z",
+      "source": "Reuters",
+      "sentiment_score": -0.3053,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "DIS_3",
+      "title": "DIS Expands into High-Growth Asian Markets",
+      "description": "The Walt Disney Company announced a strategic expansion into Southeast Asian markets, targeting a $50B addressable opportunity. The move is expected to meaningfully diversify the company's revenue base.",
+      "url": "https://finance.example.com/dis-news-3",
+      "publishedAt": "2025-03-22T00:00:00Z",
+      "source": "Investopedia",
+      "sentiment_score": 0.6696,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "DIS_2",
+      "title": "Analysts Raise DIS Price Target to $127",
+      "description": "A chorus of Wall Street analysts raised their price targets for The Walt Disney Company following a strong product launch and positive channel checks. The consensus rating remains a Strong Buy.",
+      "url": "https://finance.example.com/dis-news-2",
+      "publishedAt": "2025-03-21T00:00:00Z",
+      "source": "CNBC",
+      "sentiment_score": 0.5311,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "DIS_1",
+      "title": "DIS Smashes Earnings Expectations, Stock Surges 9.3%",
+      "description": "The Walt Disney Company reported Q1 earnings that beat analyst consensus by a wide margin, driven by strong revenue growth and expanding margins. Investors reacted positively, pushing shares higher in after-hours trading.",
+      "url": "https://finance.example.com/dis-news-1",
+      "publishedAt": "2025-03-18T00:00:00Z",
+      "source": "Forbes",
+      "sentiment_score": 0.1946,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "DIS_0",
+      "title": "DIS Misses Revenue Estimates as Competition Intensifies",
+      "description": "The Walt Disney Company reported disappointing quarterly revenues, falling short of analyst expectations for the second consecutive period. Management cited intensifying competitive pressure and softer consumer demand.",
+      "url": "https://finance.example.com/dis-news-0",
+      "publishedAt": "2025-03-17T00:00:00Z",
+      "source": "Yahoo Finance",
+      "sentiment_score": -0.3493,
+      "sentiment_label": "bearish"
+    }
+  ],
+  "NFLX": [
+    {
+      "id": "NFLX_17",
+      "title": "NFLX Wins Major Government Contract Worth $4.2B",
+      "description": "Netflix Inc. secured a significant multi-year government contract, adding substantial visibility to future revenue streams. The deal is expected to be accretive to earnings starting next quarter.",
+      "url": "https://finance.example.com/nflx-news-17",
+      "publishedAt": "2025-04-15T00:00:00Z",
+      "source": "Seeking Alpha",
+      "sentiment_score": 0.6375,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "NFLX_16",
+      "title": "NFLX Revenue Growth Accelerates for Third Straight Quarter",
+      "description": "Netflix Inc. posted its third consecutive quarter of accelerating revenue growth, outpacing sector peers. The company raised full-year guidance above the high end of prior estimates.",
+      "url": "https://finance.example.com/nflx-news-16",
+      "publishedAt": "2025-04-14T00:00:00Z",
+      "source": "Investopedia",
+      "sentiment_score": 0.8337,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "NFLX_15",
+      "title": "NFLX Announces $10B Share Buyback Program",
+      "description": "Netflix Inc. revealed a new $10 billion share repurchase program, signaling management confidence in the company's long-term outlook. Analysts upgraded the stock following the announcement.",
+      "url": "https://finance.example.com/nflx-news-15",
+      "publishedAt": "2025-04-13T00:00:00Z",
+      "source": "CNBC",
+      "sentiment_score": 0.7618,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "NFLX_14",
+      "title": "NFLX Cuts Full-Year Guidance Citing Macro Headwinds",
+      "description": "Netflix Inc. lowered its full-year outlook, citing persistent macroeconomic headwinds including elevated interest rates and slowing enterprise spending. The guidance cut surprised most market observers.",
+      "url": "https://finance.example.com/nflx-news-14",
+      "publishedAt": "2025-04-12T00:00:00Z",
+      "source": "Forbes",
+      "sentiment_score": -0.8661,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "NFLX_13",
+      "title": "NFLX Wins Major Government Contract Worth $4.2B",
+      "description": "Netflix Inc. secured a significant multi-year government contract, adding substantial visibility to future revenue streams. The deal is expected to be accretive to earnings starting next quarter.",
+      "url": "https://finance.example.com/nflx-news-13",
+      "publishedAt": "2025-04-09T00:00:00Z",
+      "source": "TechCrunch",
+      "sentiment_score": 0.6428,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "NFLX_12",
+      "title": "NFLX Faces Regulatory Scrutiny Over Data Practices",
+      "description": "Regulators announced a formal investigation into Netflix Inc.'s data handling practices, potentially exposing the company to significant fines and operational restrictions.",
+      "url": "https://finance.example.com/nflx-news-12",
+      "publishedAt": "2025-04-08T00:00:00Z",
+      "source": "Bloomberg",
+      "sentiment_score": -0.2263,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "NFLX_11",
+      "title": "NFLX Cuts Full-Year Guidance Citing Macro Headwinds",
+      "description": "Netflix Inc. lowered its full-year outlook, citing persistent macroeconomic headwinds including elevated interest rates and slowing enterprise spending. The guidance cut surprised most market observers.",
+      "url": "https://finance.example.com/nflx-news-11",
+      "publishedAt": "2025-04-06T00:00:00Z",
+      "source": "CNBC",
+      "sentiment_score": -0.7245,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "NFLX_10",
+      "title": "NFLX Announces $10B Share Buyback Program",
+      "description": "Netflix Inc. revealed a new $10 billion share repurchase program, signaling management confidence in the company's long-term outlook. Analysts upgraded the stock following the announcement.",
+      "url": "https://finance.example.com/nflx-news-10",
+      "publishedAt": "2025-04-05T00:00:00Z",
+      "source": "Forbes",
+      "sentiment_score": 0.8922,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "NFLX_9",
+      "title": "NFLX Revenue Growth Accelerates for Third Straight Quarter",
+      "description": "Netflix Inc. posted its third consecutive quarter of accelerating revenue growth, outpacing sector peers. The company raised full-year guidance above the high end of prior estimates.",
+      "url": "https://finance.example.com/nflx-news-9",
+      "publishedAt": "2025-04-04T00:00:00Z",
+      "source": "MarketWatch",
+      "sentiment_score": 0.7543,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "NFLX_8",
+      "title": "NFLX Cuts Full-Year Guidance Citing Macro Headwinds",
+      "description": "Netflix Inc. lowered its full-year outlook, citing persistent macroeconomic headwinds including elevated interest rates and slowing enterprise spending. The guidance cut surprised most market observers.",
+      "url": "https://finance.example.com/nflx-news-8",
+      "publishedAt": "2025-04-03T00:00:00Z",
+      "source": "Investopedia",
+      "sentiment_score": -0.3986,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "NFLX_7",
+      "title": "NFLX Appoints New Chief Marketing Officer",
+      "description": "Netflix Inc. named a veteran marketing executive as its new Chief Marketing Officer. The appointment is seen as routine and consistent with the company's ongoing leadership succession planning.",
+      "url": "https://finance.example.com/nflx-news-7",
+      "publishedAt": "2025-03-29T00:00:00Z",
+      "source": "MarketWatch",
+      "sentiment_score": 0.0585,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "NFLX_6",
+      "title": "NFLX Faces Regulatory Scrutiny Over Data Practices",
+      "description": "Regulators announced a formal investigation into Netflix Inc.'s data handling practices, potentially exposing the company to significant fines and operational restrictions.",
+      "url": "https://finance.example.com/nflx-news-6",
+      "publishedAt": "2025-03-28T00:00:00Z",
+      "source": "Financial Times",
+      "sentiment_score": -0.6376,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "NFLX_5",
+      "title": "Institutional Investors Reduce NFLX Holdings by 8%",
+      "description": "SEC 13F filings reveal that major institutional investors trimmed their Netflix Inc. positions significantly in the most recent quarter, suggesting diminished conviction in the near-term outlook.",
+      "url": "https://finance.example.com/nflx-news-5",
+      "publishedAt": "2025-03-27T00:00:00Z",
+      "source": "MarketWatch",
+      "sentiment_score": -0.5047,
+      "sentiment_label": "bearish"
+    },
+    {
+      "id": "NFLX_4",
+      "title": "NFLX Revenue Growth Accelerates for Third Straight Quarter",
+      "description": "Netflix Inc. posted its third consecutive quarter of accelerating revenue growth, outpacing sector peers. The company raised full-year guidance above the high end of prior estimates.",
+      "url": "https://finance.example.com/nflx-news-4",
+      "publishedAt": "2025-03-26T00:00:00Z",
+      "source": "TechCrunch",
+      "sentiment_score": 0.2558,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "NFLX_3",
+      "title": "NFLX Appoints New Chief Marketing Officer",
+      "description": "Netflix Inc. named a veteran marketing executive as its new Chief Marketing Officer. The appointment is seen as routine and consistent with the company's ongoing leadership succession planning.",
+      "url": "https://finance.example.com/nflx-news-3",
+      "publishedAt": "2025-03-23T00:00:00Z",
+      "source": "Business Insider",
+      "sentiment_score": -0.1051,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "NFLX_2",
+      "title": "Analysts Raise NFLX Price Target to $692",
+      "description": "A chorus of Wall Street analysts raised their price targets for Netflix Inc. following a strong product launch and positive channel checks. The consensus rating remains a Strong Buy.",
+      "url": "https://finance.example.com/nflx-news-2",
+      "publishedAt": "2025-03-22T00:00:00Z",
+      "source": "Business Insider",
+      "sentiment_score": 0.3279,
+      "sentiment_label": "bullish"
+    },
+    {
+      "id": "NFLX_1",
+      "title": "NFLX Signs Partnership with Mid-Tier Technology Vendor",
+      "description": "Netflix Inc. announced a partnership with a regional technology provider to enhance certain back-office capabilities. The financial terms were not disclosed and the impact on earnings is expected to be minimal.",
+      "url": "https://finance.example.com/nflx-news-1",
+      "publishedAt": "2025-03-21T00:00:00Z",
+      "source": "Motley Fool",
+      "sentiment_score": 0.074,
+      "sentiment_label": "neutral"
+    },
+    {
+      "id": "NFLX_0",
+      "title": "Analysts Raise NFLX Price Target to $730",
+      "description": "A chorus of Wall Street analysts raised their price targets for Netflix Inc. following a strong product launch and positive channel checks. The consensus rating remains a Strong Buy.",
+      "url": "https://finance.example.com/nflx-news-0",
+      "publishedAt": "2025-03-18T00:00:00Z",
+      "source": "Investopedia",
+      "sentiment_score": 0.7055,
+      "sentiment_label": "bullish"
+    }
+  ]
+}

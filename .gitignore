@@ -1,0 +1,100 @@
+# =========================
+
+# 🔒 ENV & SECRETS
+
+# =========================
+
+.env
+.env.*
+*.env
+
+# =========================
+
+# 🐍 PYTHON (BACKEND)
+
+# =========================
+
+**pycache**/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+
+venv/
+.env/
+.envs/
+.venv/
+env/
+
+# SQLite database
+
+*.db
+*.sqlite3
+
+# Logs
+
+*.log
+
+# =========================
+
+# ⚛️ NODE (FRONTEND)
+
+# =========================
+
+node_modules/
+dist/
+build/
+
+# Vite cache
+
+.vite/
+
+# Logs
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# =========================
+
+# 🧠 OS / SYSTEM FILES
+
+# =========================
+
+.DS_Store
+Thumbs.db
+
+# =========================
+
+# 🧰 EDITOR / IDE
+
+# =========================
+
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =========================
+
+# 🚀 DEPLOYMENT (OPTIONAL)
+
+# =========================
+
+.vercel/
+.render/
+.cache/
+
+# =========================
+
+# 📦 DATA FILES (OPTIONAL)
+
+# =========================
+
+# If your JSON files are large OR private, ignore them
+
+# Otherwise comment this out
+
+# backend/data/*.json

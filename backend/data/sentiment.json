@@ -1,0 +1,137 @@
+{
+  "AAPL": {
+    "aggregate_score": 0.0133,
+    "label": "neutral",
+    "bullish_pct": 27.8,
+    "bearish_pct": 22.2,
+    "neutral_pct": 50.0,
+    "article_count": 18,
+    "ticker": "AAPL"
+  },
+  "MSFT": {
+    "aggregate_score": 0.1934,
+    "label": "bullish",
+    "bullish_pct": 55.6,
+    "bearish_pct": 22.2,
+    "neutral_pct": 22.2,
+    "article_count": 18,
+    "ticker": "MSFT"
+  },
+  "GOOGL": {
+    "aggregate_score": 0.0379,
+    "label": "bullish",
+    "bullish_pct": 38.9,
+    "bearish_pct": 27.8,
+    "neutral_pct": 33.3,
+    "article_count": 18,
+    "ticker": "GOOGL"
+  },
+  "AMZN": {
+    "aggregate_score": 0.077,
+    "label": "bullish",
+    "bullish_pct": 50.0,
+    "bearish_pct": 38.9,
+    "neutral_pct": 11.1,
+    "article_count": 18,
+    "ticker": "AMZN"
+  },
+  "NVDA": {
+    "aggregate_score": -0.0085,
+    "label": "bullish",
+    "bullish_pct": 38.9,
+    "bearish_pct": 33.3,
+    "neutral_pct": 27.8,
+    "article_count": 18,
+    "ticker": "NVDA"
+  },
+  "TSLA": {
+    "aggregate_score": 0.0036,
+    "label": "bullish",
+    "bullish_pct": 38.9,
+    "bearish_pct": 27.8,
+    "neutral_pct": 33.3,
+    "article_count": 18,
+    "ticker": "TSLA"
+  },
+  "META": {
+    "aggregate_score": -0.1914,
+    "label": "bearish",
+    "bullish_pct": 16.7,
+    "bearish_pct": 44.4,
+    "neutral_pct": 38.9,
+    "article_count": 18,
+    "ticker": "META"
+  },
+  "JPM": {
+    "aggregate_score": 0.0141,
+    "label": "neutral",
+    "bullish_pct": 33.3,
+    "bearish_pct": 33.3,
+    "neutral_pct": 33.3,
+    "article_count": 18,
+    "ticker": "JPM"
+  },
+  "JNJ": {
+    "aggregate_score": 0.0055,
+    "label": "neutral",
+    "bullish_pct": 33.3,
+    "bearish_pct": 27.8,
+    "neutral_pct": 38.9,
+    "article_count": 18,
+    "ticker": "JNJ"
+  },
+  "V": {
+    "aggregate_score": 0.0196,
+    "label": "neutral",
+    "bullish_pct": 33.3,
+    "bearish_pct": 33.3,
+    "neutral_pct": 33.3,
+    "article_count": 18,
+    "ticker": "V"
+  },
+  "WMT": {
+    "aggregate_score": -0.0672,
+    "label": "neutral",
+    "bullish_pct": 27.8,
+    "bearish_pct": 33.3,
+    "neutral_pct": 38.9,
+    "article_count": 18,
+    "ticker": "WMT"
+  },
+  "XOM": {
+    "aggregate_score": 0.3335,
+    "label": "bullish",
+    "bullish_pct": 50.0,
+    "bearish_pct": 11.1,
+    "neutral_pct": 38.9,
+    "article_count": 18,
+    "ticker": "XOM"
+  },
+  "BAC": {
+    "aggregate_score": 0.291,
+    "label": "bullish",
+    "bullish_pct": 61.1,
+    "bearish_pct": 11.1,
+    "neutral_pct": 27.8,
+    "article_count": 18,
+    "ticker": "BAC"
+  },
+  "DIS": {
+    "aggregate_score": 0.0097,
+    "label": "bullish",
+    "bullish_pct": 44.4,
+    "bearish_pct": 38.9,
+    "neutral_pct": 16.7,
+    "article_count": 18,
+    "ticker": "DIS"
+  },
+  "NFLX": {
+    "aggregate_score": 0.1378,
+    "label": "bullish",
+    "bullish_pct": 50.0,
+    "bearish_pct": 33.3,
+    "neutral_pct": 16.7,
+    "article_count": 18,
+    "ticker": "NFLX"
+  }
+}
